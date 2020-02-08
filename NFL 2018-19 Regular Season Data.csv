@@ -1,0 +1,1019 @@
+﻿Team1,Week,Game Number,Game Location,Team2,Team1_Score,Team2_Score,Team1_Passing,Team1_Rushing,Team1_Turnovers,Team2_Passing,Team2_Rushing,Team2_Turnovers,Result
+Arizona Cardinals,1,1,HOME,Washington Redskins,6,24,145,68,2,247,182,1,L
+Arizona Cardinals,2,2,AWAY,Los Angeles Rams,0,34,83,54,1,342,90,1,L
+Arizona Cardinals,3,3,HOME,Chicago Bears,14,16,168,53,4,194,122,2,L
+Arizona Cardinals,4,4,HOME,Seattle Seahawks,17,20,171,92,1,160,171,0,L
+Arizona Cardinals,5,5,AWAY,San Francisco 49ers,28,18,164,56,0,300,147,5,W
+Arizona Cardinals,6,6,AWAY,Minnesota Vikings,17,27,208,60,2,216,195,2,L
+Arizona Cardinals,7,7,HOME,Denver Broncos,10,45,154,69,5,178,131,1,L
+Arizona Cardinals,8,8,HOME,San Francisco 49ers,18,15,233,88,2,160,107,0,W
+Arizona Cardinals,10,9,AWAY,Kansas City Chiefs,14,26,166,94,2,212,118,0,L
+Arizona Cardinals,11,10,HOME,Oakland Raiders,21,23,128,154,2,173,152,0,L
+Arizona Cardinals,12,11,AWAY,Los Angeles Chargers,10,45,87,62,1,236,178,1,L
+Arizona Cardinals,13,12,AWAY,Green Bay Packers,20,17,133,182,0,227,98,0,W
+Arizona Cardinals,14,13,HOME,Detroit Lions,3,17,218,61,1,96,122,1,L
+Arizona Cardinals,15,14,AWAY,Atlanta Falcons,14,40,193,60,3,220,215,0,L
+Arizona Cardinals,16,15,HOME,Los Angeles Rams,9,31,159,104,0,192,269,1,L
+Arizona Cardinals,17,16,AWAY,Seattle Seahawks,24,27,113,85,2,109,182,1,L
+Atlanta Falcons,1,1,AWAY,Philadelphia Eagles,12,18,225,74,1,119,113,2,L
+Atlanta Falcons,2,2,HOME,Carolina Panthers,31,24,272,170,1,318,121,1,W
+Atlanta Falcons,3,3,HOME,New Orleans Saints,37,43,359,48,0,391,143,0,L
+Atlanta Falcons,4,4,HOME,Cincinnati Bengals,36,37,403,92,0,308,99,1,L
+Atlanta Falcons,5,5,AWAY,Pittsburgh Steelers,17,41,262,62,1,250,131,1,L
+Atlanta Falcons,6,6,HOME,Tampa Bay Buccaneers,34,29,347,70,0,389,121,2,W
+Atlanta Falcons,7,7,HOME,New York Giants,23,20,356,67,1,372,61,0,W
+Atlanta Falcons,9,8,AWAY,Washington Redskins,38,14,337,154,1,287,79,1,W
+Atlanta Falcons,10,9,AWAY,Cleveland Browns,16,28,311,71,2,216,211,1,L
+Atlanta Falcons,11,10,HOME,Dallas Cowboys,19,22,274,80,1,191,132,0,L
+Atlanta Falcons,12,11,AWAY,New Orleans Saints,17,31,340,26,4,162,150,1,L
+Atlanta Falcons,13,12,HOME,Baltimore Ravens,16,26,97,34,1,159,207,1,L
+Atlanta Falcons,14,13,AWAY,Green Bay Packers,20,34,237,107,2,162,138,0,L
+Atlanta Falcons,15,14,HOME,Arizona Cardinals,40,14,220,215,0,193,60,3,W
+Atlanta Falcons,16,15,AWAY,Carolina Panthers,24,10,233,194,2,295,141,4,W
+Atlanta Falcons,17,16,AWAY,Tampa Bay Buccaneers,34,32,380,109,1,341,92,1,W
+Baltimore Ravens,1,1,HOME,Buffalo Bills,47,3,252,117,1,70,83,2,W
+Baltimore Ravens,2,2,AWAY,Cincinnati Bengals,23,34,359,66,3,265,108,0,L
+Baltimore Ravens,3,3,HOME,Denver Broncos,27,14,265,77,0,173,120,1,W
+Baltimore Ravens,4,4,AWAY,Pittsburgh Steelers,26,14,355,96,1,265,19,2,W
+Baltimore Ravens,5,5,AWAY,Cleveland Browns,9,12,294,116,2,304,112,1,L
+Baltimore Ravens,6,6,AWAY,Tennessee Titans,21,0,238,123,1,51,55,0,W
+Baltimore Ravens,7,7,HOME,New Orleans Saints,23,24,274,77,0,205,134,1,L
+Baltimore Ravens,8,8,AWAY,Carolina Panthers,21,36,224,101,3,232,154,0,L
+Baltimore Ravens,9,9,HOME,Pittsburgh Steelers,16,23,204,61,0,282,113,0,L
+Baltimore Ravens,11,10,HOME,Cincinnati Bengals,24,21,136,267,1,207,48,0,W
+Baltimore Ravens,12,11,HOME,Oakland Raiders,34,17,174,242,2,182,67,1,W
+Baltimore Ravens,13,12,AWAY,Atlanta Falcons,26,16,159,207,1,97,34,1,W
+Baltimore Ravens,14,13,AWAY,Kansas City Chiefs,24,27,127,194,1,348,94,1,L
+Baltimore Ravens,15,14,HOME,Tampa Bay Buccaneers,20,12,128,242,2,156,85,1,W
+Baltimore Ravens,16,15,AWAY,Los Angeles Chargers,22,10,202,159,1,147,51,3,W
+Baltimore Ravens,17,16,HOME,Cleveland Browns,26,24,167,296,1,376,50,3,W
+Buffalo Bills,1,1,AWAY,Baltimore Ravens,3,47,70,83,2,252,117,1,L
+Buffalo Bills,2,2,HOME,Los Angeles Chargers,20,31,209,84,2,240,109,0,L
+Buffalo Bills,3,3,AWAY,Minnesota Vikings,27,6,164,128,0,278,14,3,W
+Buffalo Bills,4,4,AWAY,Green Bay Packers,0,22,87,58,3,282,141,2,L
+Buffalo Bills,5,5,HOME,Tennessee Titans,13,12,79,144,1,121,100,3,W
+Buffalo Bills,6,6,AWAY,Houston Texans,13,20,129,100,3,142,74,3,L
+Buffalo Bills,7,7,AWAY,Indianapolis Colts,5,37,168,135,5,156,220,0,L
+Buffalo Bills,8,8,HOME,New England Patriots,6,25,287,46,2,311,76,0,L
+Buffalo Bills,9,9,HOME,Chicago Bears,9,41,166,98,4,126,64,1,L
+Buffalo Bills,10,10,AWAY,New York Jets,41,10,239,212,0,116,83,2,W
+Buffalo Bills,12,11,HOME,Jacksonville Jaguars,24,21,160,167,0,107,226,2,W
+Buffalo Bills,13,12,AWAY,Miami Dolphins,17,21,217,198,3,115,60,1,L
+Buffalo Bills,14,13,HOME,New York Jets,23,27,192,176,3,170,78,2,L
+Buffalo Bills,15,14,HOME,Detroit Lions,14,13,195,117,0,208,105,0,W
+Buffalo Bills,16,15,AWAY,New England Patriots,12,24,217,72,3,117,273,3,L
+Buffalo Bills,17,16,HOME,Miami Dolphins,42,17,215,166,1,126,99,4,W
+Carolina Panthers,1,1,HOME,Dallas Cowboys,16,8,146,147,1,138,94,1,W
+Carolina Panthers,2,2,AWAY,Atlanta Falcons,24,31,318,121,1,272,170,1,L
+Carolina Panthers,3,3,HOME,Cincinnati Bengals,31,21,147,230,0,330,66,4,W
+Carolina Panthers,5,4,HOME,New York Giants,33,31,232,118,2,382,50,3,W
+Carolina Panthers,6,5,AWAY,Washington Redskins,17,23,269,81,3,156,132,0,L
+Carolina Panthers,7,6,AWAY,Philadelphia Eagles,21,17,250,121,0,284,58,1,W
+Carolina Panthers,8,7,HOME,Baltimore Ravens,36,21,232,154,0,224,101,3,W
+Carolina Panthers,9,8,HOME,Tampa Bay Buccaneers,42,28,228,179,0,219,82,2,W
+Carolina Panthers,10,9,AWAY,Pittsburgh Steelers,21,52,147,95,2,319,138,0,L
+Carolina Panthers,11,10,AWAY,Detroit Lions,19,20,331,56,1,215,94,0,L
+Carolina Panthers,12,11,HOME,Seattle Seahawks,27,30,256,220,1,322,75,0,L
+Carolina Panthers,13,12,AWAY,Tampa Bay Buccaneers,17,24,276,168,4,220,95,1,L
+Carolina Panthers,14,13,AWAY,Cleveland Browns,20,26,297,96,1,232,116,2,L
+Carolina Panthers,15,14,HOME,New Orleans Saints,9,12,149,98,2,191,155,2,L
+Carolina Panthers,16,15,HOME,Atlanta Falcons,10,24,295,141,4,233,194,2,L
+Carolina Panthers,17,16,AWAY,New Orleans Saints,33,14,263,111,0,110,184,1,W
+Chicago Bears,1,1,AWAY,Green Bay Packers,23,24,155,139,1,301,69,2,L
+Chicago Bears,2,2,HOME,Seattle Seahawks,24,17,185,86,2,202,74,2,W
+Chicago Bears,3,3,AWAY,Arizona Cardinals,16,14,194,122,2,168,53,4,W
+Chicago Bears,4,4,HOME,Tampa Bay Buccaneers,48,10,344,139,0,251,60,3,W
+Chicago Bears,6,5,AWAY,Miami Dolphins,28,31,303,164,3,380,161,3,L
+Chicago Bears,7,6,HOME,New England Patriots,31,38,319,134,2,273,108,3,L
+Chicago Bears,8,7,HOME,New York Jets,24,10,216,179,0,150,57,0,W
+Chicago Bears,9,8,AWAY,Buffalo Bills,41,9,126,64,1,166,98,4,W
+Chicago Bears,10,9,HOME,Detroit Lions,34,22,348,54,0,229,76,3,W
+Chicago Bears,11,10,HOME,Minnesota Vikings,25,20,160,148,3,246,22,3,W
+Chicago Bears,12,11,AWAY,Detroit Lions,23,16,226,38,1,222,111,2,W
+Chicago Bears,13,12,AWAY,New York Giants,27,30,258,118,3,197,141,1,L
+Chicago Bears,14,13,HOME,Los Angeles Rams,15,6,100,194,3,162,52,4,W
+Chicago Bears,15,14,HOME,Green Bay Packers,24,17,232,100,1,235,88,1,W
+Chicago Bears,16,15,AWAY,San Francisco 49ers,14,9,235,90,2,232,47,1,W
+Chicago Bears,17,16,AWAY,Minnesota Vikings,24,10,163,169,0,101,63,0,W
+Cincinnati Bengals,1,1,AWAY,Indianapolis Colts,34,23,229,101,2,305,75,2,W
+Cincinnati Bengals,2,2,HOME,Baltimore Ravens,34,23,265,108,0,359,66,3,W
+Cincinnati Bengals,3,3,AWAY,Carolina Panthers,21,31,330,66,4,147,230,0,L
+Cincinnati Bengals,4,4,AWAY,Atlanta Falcons,37,36,308,99,1,403,92,0,W
+Cincinnati Bengals,5,5,HOME,Miami Dolphins,27,17,229,103,1,169,128,3,W
+Cincinnati Bengals,6,6,HOME,Pittsburgh Steelers,21,28,213,62,0,369,112,0,L
+Cincinnati Bengals,7,7,AWAY,Kansas City Chiefs,10,45,174,65,1,353,198,1,L
+Cincinnati Bengals,8,8,HOME,Tampa Bay Buccaneers,37,34,264,138,0,450,126,4,W
+Cincinnati Bengals,10,9,HOME,New Orleans Saints,14,51,174,110,2,265,244,0,L
+Cincinnati Bengals,11,10,AWAY,Baltimore Ravens,21,24,207,48,0,136,267,1,L
+Cincinnati Bengals,12,11,HOME,Cleveland Browns,20,35,243,129,2,258,84,0,L
+Cincinnati Bengals,13,12,HOME,Denver Broncos,10,24,202,111,3,143,218,1,L
+Cincinnati Bengals,14,13,AWAY,Los Angeles Chargers,21,26,151,144,0,203,85,0,L
+Cincinnati Bengals,15,14,HOME,Oakland Raiders,30,16,123,171,1,229,68,2,W
+Cincinnati Bengals,16,15,AWAY,Cleveland Browns,18,26,107,102,0,347,146,0,L
+Cincinnati Bengals,17,16,AWAY,Pittsburgh Steelers,13,16,71,125,0,278,65,1,L
+Cleveland Browns,2,2,AWAY,New Orleans Saints,18,21,234,93,1,213,62,2,L
+Cleveland Browns,3,3,HOME,New York Jets,21,17,190,133,0,161,107,3,W
+Cleveland Browns,4,4,AWAY,Oakland Raiders,42,45,279,208,4,426,139,2,L
+Cleveland Browns,5,5,HOME,Baltimore Ravens,12,9,304,112,1,294,116,2,W
+Cleveland Browns,6,6,HOME,Los Angeles Chargers,14,38,214,103,2,203,246,1,L
+Cleveland Browns,7,7,AWAY,Tampa Bay Buccaneers,23,26,186,119,1,342,114,4,L
+Cleveland Browns,8,8,AWAY,Pittsburgh Steelers,18,33,163,74,1,253,168,2,L
+Cleveland Browns,9,9,HOME,Kansas City Chiefs,21,37,286,102,1,360,139,1,L
+Cleveland Browns,10,10,HOME,Atlanta Falcons,28,16,216,211,1,311,71,2,W
+Cleveland Browns,12,11,AWAY,Cincinnati Bengals,35,20,258,84,0,243,129,2,W
+Cleveland Browns,13,12,AWAY,Houston Texans,13,29,397,31,4,197,187,0,L
+Cleveland Browns,14,13,HOME,Carolina Panthers,26,20,232,116,2,297,96,1,W
+Cleveland Browns,15,14,AWAY,Denver Broncos,17,16,175,134,2,238,32,2,W
+Cleveland Browns,16,15,HOME,Cincinnati Bengals,26,18,347,146,0,107,102,0,W
+Cleveland Browns,17,16,AWAY,Baltimore Ravens,24,26,376,50,3,167,296,1,L
+Dallas Cowboys,1,1,AWAY,Carolina Panthers,8,16,138,94,1,146,147,1,L
+Dallas Cowboys,2,2,HOME,New York Giants,20,13,160,138,0,220,35,1,W
+Dallas Cowboys,3,3,AWAY,Seattle Seahawks,13,24,137,166,3,182,113,0,L
+Dallas Cowboys,4,4,HOME,Detroit Lions,26,24,231,183,0,286,96,0,W
+Dallas Cowboys,5,5,AWAY,Houston Texans,16,19,194,98,2,374,88,2,L
+Dallas Cowboys,6,6,HOME,Jacksonville Jaguars,40,7,172,206,0,139,65,2,W
+Dallas Cowboys,7,7,AWAY,Washington Redskins,17,20,250,73,2,175,130,0,L
+Dallas Cowboys,9,8,HOME,Tennessee Titans,14,28,225,72,2,215,125,2,L
+Dallas Cowboys,10,9,AWAY,Philadelphia Eagles,27,20,239,171,0,350,71,1,W
+Dallas Cowboys,11,10,AWAY,Atlanta Falcons,22,19,191,132,0,274,80,1,W
+Dallas Cowboys,12,11,HOME,Washington Redskins,31,23,258,146,0,251,80,3,W
+Dallas Cowboys,13,12,HOME,New Orleans Saints,13,10,209,99,2,111,65,1,W
+Dallas Cowboys,14,13,HOME,Philadelphia Eagles,29,23,434,142,3,222,34,1,W
+Dallas Cowboys,15,14,AWAY,Indianapolis Colts,0,23,180,112,1,192,178,1,L
+Dallas Cowboys,16,15,HOME,Tampa Bay Buccaneers,27,20,152,80,0,320,63,2,W
+Dallas Cowboys,17,16,AWAY,New York Giants,36,35,368,51,1,298,143,2,W
+Denver Broncos,1,1,HOME,Seattle Seahawks,27,24,324,146,3,242,64,3,W
+Denver Broncos,2,2,HOME,Oakland Raiders,20,19,217,168,1,281,92,0,W
+Denver Broncos,3,3,AWAY,Baltimore Ravens,14,27,173,120,1,265,77,0,L
+Denver Broncos,4,4,HOME,Kansas City Chiefs,23,27,226,159,1,304,142,0,L
+Denver Broncos,5,5,AWAY,New York Jets,16,34,344,92,1,189,323,2,L
+Denver Broncos,6,6,HOME,Los Angeles Rams,20,23,297,60,1,174,270,1,L
+Denver Broncos,7,7,AWAY,Arizona Cardinals,45,10,178,131,1,154,69,5,W
+Denver Broncos,8,8,AWAY,Kansas City Chiefs,23,30,222,189,2,291,49,1,L
+Denver Broncos,9,9,HOME,Houston Texans,17,19,273,75,1,192,98,0,L
+Denver Broncos,11,10,AWAY,Los Angeles Chargers,23,22,217,108,0,384,95,2,W
+Denver Broncos,12,11,HOME,Pittsburgh Steelers,24,17,184,124,0,452,75,4,W
+Denver Broncos,13,12,AWAY,Cincinnati Bengals,24,10,143,218,1,202,111,3,W
+Denver Broncos,14,13,AWAY,San Francisco 49ers,14,20,171,103,0,305,84,1,L
+Denver Broncos,15,14,HOME,Cleveland Browns,16,17,238,32,2,175,134,2,L
+Denver Broncos,16,15,AWAY,Oakland Raiders,14,27,200,100,2,159,114,0,L
+Denver Broncos,17,16,HOME,Los Angeles Chargers,9,23,288,82,4,160,116,4,L
+Detroit Lions,1,1,HOME,New York Jets,17,48,300,39,5,180,169,2,L
+Detroit Lions,2,2,AWAY,San Francisco 49ers,27,30,329,98,1,156,190,0,L
+Detroit Lions,3,3,HOME,New England Patriots,26,10,255,159,1,120,89,1,W
+Detroit Lions,4,4,AWAY,Dallas Cowboys,24,26,286,96,0,231,183,0,L
+Detroit Lions,5,5,HOME,Green Bay Packers,31,23,170,94,0,423,98,3,W
+Detroit Lions,7,6,AWAY,Miami Dolphins,32,21,209,248,0,215,107,0,W
+Detroit Lions,8,7,HOME,Seattle Seahawks,14,28,297,34,3,237,176,0,L
+Detroit Lions,9,8,AWAY,Minnesota Vikings,9,24,143,66,1,155,128,2,L
+Detroit Lions,10,9,AWAY,Chicago Bears,22,34,229,76,3,348,54,0,L
+Detroit Lions,11,10,HOME,Carolina Panthers,20,19,215,94,0,331,56,1,W
+Detroit Lions,12,11,HOME,Chicago Bears,16,23,222,111,2,226,38,1,L
+Detroit Lions,13,12,HOME,Los Angeles Rams,16,30,208,102,2,195,149,2,L
+Detroit Lions,14,13,AWAY,Arizona Cardinals,17,3,96,122,1,218,61,1,W
+Detroit Lions,15,14,AWAY,Buffalo Bills,13,14,208,105,0,195,117,0,L
+Detroit Lions,16,15,HOME,Minnesota Vikings,9,27,137,86,0,240,100,0,L
+Detroit Lions,17,16,AWAY,Green Bay Packers,31,0,272,130,0,129,46,1,W
+Green Bay Packers,1,1,HOME,Chicago Bears,24,23,301,69,2,155,139,1,W
+Green Bay Packers,3,3,AWAY,Washington Redskins,17,31,240,100,1,220,166,1,L
+Green Bay Packers,4,4,HOME,Buffalo Bills,22,0,282,141,2,87,58,3,W
+Green Bay Packers,5,5,AWAY,Detroit Lions,23,31,423,98,3,170,94,0,L
+Green Bay Packers,6,6,HOME,San Francisco 49ers,33,30,405,116,0,227,174,3,W
+Green Bay Packers,8,7,AWAY,Los Angeles Rams,27,29,253,106,1,281,135,0,L
+Green Bay Packers,9,8,AWAY,New England Patriots,17,31,250,117,1,310,123,0,L
+Green Bay Packers,10,9,HOME,Miami Dolphins,31,12,182,195,1,163,131,2,W
+Green Bay Packers,11,10,AWAY,Seattle Seahawks,24,27,311,48,0,205,173,1,L
+Green Bay Packers,12,11,AWAY,Minnesota Vikings,17,24,172,82,1,325,91,0,L
+Green Bay Packers,13,12,HOME,Arizona Cardinals,17,20,227,98,0,133,182,0,L
+Green Bay Packers,14,13,HOME,Atlanta Falcons,34,20,162,138,0,237,107,2,W
+Green Bay Packers,15,14,AWAY,Chicago Bears,17,24,235,88,1,232,100,1,L
+Green Bay Packers,16,15,AWAY,New York Jets,44,38,413,127,1,323,47,0,W
+Green Bay Packers,17,16,HOME,Detroit Lions,0,31,129,46,1,272,130,0,L
+Houston Texans,1,1,AWAY,New England Patriots,20,27,158,167,2,267,122,3,L
+Houston Texans,2,2,AWAY,Tennessee Titans,17,20,289,148,1,183,100,0,L
+Houston Texans,3,3,HOME,New York Giants,22,27,368,59,2,265,114,0,L
+Houston Texans,4,4,AWAY,Indianapolis Colts,37,34,347,119,1,437,41,2,W
+Houston Texans,5,5,HOME,Dallas Cowboys,19,16,374,88,2,194,98,2,W
+Houston Texans,6,6,HOME,Buffalo Bills,20,13,142,74,3,129,100,3,W
+Houston Texans,7,7,AWAY,Jacksonville Jaguars,20,7,131,141,0,189,70,3,W
+Houston Texans,8,8,HOME,Miami Dolphins,42,23,239,188,0,254,116,1,W
+Houston Texans,9,9,AWAY,Denver Broncos,19,17,192,98,0,273,75,1,W
+Houston Texans,11,10,AWAY,Washington Redskins,23,21,181,139,3,154,124,2,W
+Houston Texans,12,11,HOME,Tennessee Titans,34,17,181,281,0,260,105,1,W
+Houston Texans,13,12,HOME,Cleveland Browns,29,13,197,187,0,397,31,4,W
+Houston Texans,14,13,HOME,Indianapolis Colts,21,24,226,89,0,386,50,1,L
+Houston Texans,15,14,AWAY,New York Jets,29,22,239,47,0,228,90,1,W
+Houston Texans,16,15,AWAY,Philadelphia Eagles,30,32,309,62,1,462,57,3,L
+Houston Texans,17,16,HOME,Jacksonville Jaguars,20,3,208,134,1,89,30,2,W
+Indianapolis Colts,1,1,HOME,Cincinnati Bengals,23,34,305,75,2,229,101,2,L
+Indianapolis Colts,2,2,AWAY,Washington Redskins,21,9,177,104,2,269,65,1,W
+Indianapolis Colts,3,3,AWAY,Philadelphia Eagles,16,20,141,68,0,227,152,2,L
+Indianapolis Colts,4,4,HOME,Houston Texans,34,37,437,41,2,347,119,1,L
+Indianapolis Colts,5,5,AWAY,New England Patriots,24,38,355,84,3,341,97,2,L
+Indianapolis Colts,6,6,AWAY,New York Jets,34,42,301,127,4,267,107,2,L
+Indianapolis Colts,7,7,HOME,Buffalo Bills,37,5,156,220,0,168,135,5,W
+Indianapolis Colts,8,8,AWAY,Oakland Raiders,42,28,239,222,0,244,103,1,W
+Indianapolis Colts,10,9,HOME,Jacksonville Jaguars,29,26,285,81,1,324,91,1,W
+Indianapolis Colts,11,10,HOME,Tennessee Titans,38,10,295,102,0,176,91,2,W
+Indianapolis Colts,12,11,HOME,Miami Dolphins,27,24,337,118,3,201,113,1,W
+Indianapolis Colts,13,12,AWAY,Jacksonville Jaguars,0,6,224,41,2,132,79,1,L
+Indianapolis Colts,14,13,AWAY,Houston Texans,24,21,386,50,1,226,89,0,W
+Indianapolis Colts,15,14,HOME,Dallas Cowboys,23,0,192,178,1,180,112,1,W
+Indianapolis Colts,16,15,HOME,New York Giants,28,27,353,49,1,309,83,1,W
+Indianapolis Colts,17,16,AWAY,Tennessee Titans,33,17,278,158,2,165,93,3,W
+Jacksonville Jaguars,1,1,AWAY,New York Giants,20,15,168,137,1,210,114,2,W
+Jacksonville Jaguars,2,2,HOME,New England Patriots,31,20,376,104,2,220,82,1,W
+Jacksonville Jaguars,3,3,HOME,Tennessee Titans,6,9,145,87,1,83,150,0,L
+Jacksonville Jaguars,4,4,HOME,New York Jets,31,12,377,126,3,144,34,0,W
+Jacksonville Jaguars,5,5,AWAY,Kansas City Chiefs,14,30,401,101,5,298,126,2,L
+Jacksonville Jaguars,6,6,AWAY,Dallas Cowboys,7,40,139,65,2,172,206,0,L
+Jacksonville Jaguars,7,7,HOME,Houston Texans,7,20,189,70,3,131,141,0,L
+Jacksonville Jaguars,8,8,HOME,Philadelphia Eagles,18,24,265,70,1,262,133,2,L
+Jacksonville Jaguars,10,9,AWAY,Indianapolis Colts,26,29,324,91,1,285,81,1,L
+Jacksonville Jaguars,11,10,HOME,Pittsburgh Steelers,16,20,64,179,1,297,26,3,L
+Jacksonville Jaguars,12,11,AWAY,Buffalo Bills,21,24,107,226,2,160,167,0,L
+Jacksonville Jaguars,13,12,HOME,Indianapolis Colts,6,0,132,79,1,224,41,2,W
+Jacksonville Jaguars,14,13,AWAY,Tennessee Titans,9,30,195,60,1,162,264,1,L
+Jacksonville Jaguars,15,14,HOME,Washington Redskins,13,16,20,172,2,136,109,0,L
+Jacksonville Jaguars,16,15,AWAY,Miami Dolphins,17,7,118,126,1,121,62,2,W
+Jacksonville Jaguars,17,16,AWAY,Houston Texans,3,20,89,30,2,208,134,1,L
+Kansas City Chiefs,1,1,AWAY,Los Angeles Chargers,38,28,256,106,0,418,123,2,W
+Kansas City Chiefs,2,2,AWAY,Pittsburgh Steelers,42,37,322,127,1,442,33,0,W
+Kansas City Chiefs,3,3,HOME,San Francisco 49ers,38,27,307,77,0,228,178,0,W
+Kansas City Chiefs,4,4,AWAY,Denver Broncos,27,23,304,142,0,226,159,1,W
+Kansas City Chiefs,5,5,HOME,Jacksonville Jaguars,30,14,298,126,2,401,101,5,W
+Kansas City Chiefs,6,6,AWAY,New England Patriots,40,43,352,94,2,327,173,1,L
+Kansas City Chiefs,7,7,HOME,Cincinnati Bengals,45,10,353,198,1,174,65,1,W
+Kansas City Chiefs,8,8,HOME,Denver Broncos,30,23,291,49,1,222,189,2,W
+Kansas City Chiefs,9,9,AWAY,Cleveland Browns,37,21,360,139,1,286,102,1,W
+Kansas City Chiefs,10,10,HOME,Arizona Cardinals,26,14,212,118,0,166,94,2,W
+Kansas City Chiefs,11,11,AWAY,Los Angeles Rams,51,54,448,98,5,379,76,2,L
+Kansas City Chiefs,13,12,AWAY,Oakland Raiders,40,33,295,174,1,271,171,3,W
+Kansas City Chiefs,14,13,HOME,Baltimore Ravens,27,24,348,94,1,127,194,1,W
+Kansas City Chiefs,15,14,HOME,Los Angeles Chargers,28,29,234,60,0,288,119,2,L
+Kansas City Chiefs,16,15,AWAY,Seattle Seahawks,31,38,265,154,2,254,210,0,L
+Kansas City Chiefs,17,16,HOME,Oakland Raiders,35,3,310,99,1,165,127,4,W
+Los Angeles Chargers,1,1,HOME,Kansas City Chiefs,28,38,418,123,2,256,106,0,L
+Los Angeles Chargers,2,2,AWAY,Buffalo Bills,31,20,240,109,0,209,84,2,W
+Los Angeles Chargers,3,3,AWAY,Los Angeles Rams,23,35,215,141,2,350,171,2,L
+Los Angeles Chargers,4,4,HOME,San Francisco 49ers,29,27,242,126,1,288,76,2,W
+Los Angeles Chargers,5,5,HOME,Oakland Raiders,26,10,333,79,0,248,41,2,W
+Los Angeles Chargers,6,6,AWAY,Cleveland Browns,38,14,203,246,1,214,103,2,W
+Los Angeles Chargers,7,7,HOME,Tennessee Titans,20,19,297,47,0,226,164,1,W
+Los Angeles Chargers,9,8,AWAY,Seattle Seahawks,25,17,215,160,0,202,154,1,W
+Los Angeles Chargers,10,9,AWAY,Oakland Raiders,20,6,222,113,1,203,114,1,W
+Los Angeles Chargers,11,10,HOME,Denver Broncos,22,23,384,95,2,217,108,0,L
+Los Angeles Chargers,12,11,HOME,Arizona Cardinals,45,10,236,178,1,87,62,1,W
+Los Angeles Chargers,13,12,AWAY,Pittsburgh Steelers,33,30,286,85,0,271,65,1,W
+Los Angeles Chargers,14,13,HOME,Cincinnati Bengals,26,21,203,85,0,151,144,0,W
+Los Angeles Chargers,15,14,AWAY,Kansas City Chiefs,29,28,288,119,2,234,60,0,W
+Los Angeles Chargers,16,15,HOME,Baltimore Ravens,10,22,147,51,3,202,159,1,L
+Los Angeles Chargers,17,16,AWAY,Denver Broncos,23,9,160,116,4,288,82,4,W
+Los Angeles Rams,1,1,AWAY,Oakland Raiders,33,13,225,140,0,300,95,3,W
+Los Angeles Rams,2,2,HOME,Arizona Cardinals,34,0,342,90,1,83,54,1,W
+Los Angeles Rams,3,3,HOME,Los Angeles Chargers,35,23,350,171,2,215,141,2,W
+Los Angeles Rams,4,4,HOME,Minnesota Vikings,38,31,456,100,0,392,54,1,W
+Los Angeles Rams,5,5,AWAY,Seattle Seahawks,33,31,313,155,2,183,190,0,W
+Los Angeles Rams,6,6,AWAY,Denver Broncos,23,20,174,270,1,297,60,1,W
+Los Angeles Rams,7,7,AWAY,San Francisco 49ers,39,10,193,146,0,121,107,4,W
+Los Angeles Rams,8,8,HOME,Green Bay Packers,29,27,281,135,0,253,106,1,W
+Los Angeles Rams,9,9,AWAY,New Orleans Saints,35,45,391,92,1,346,141,1,L
+Los Angeles Rams,10,10,HOME,Seattle Seahawks,36,31,307,149,0,141,273,1,W
+Los Angeles Rams,11,11,HOME,Kansas City Chiefs,54,51,379,76,2,448,98,5,W
+Los Angeles Rams,13,12,AWAY,Detroit Lions,30,16,195,149,2,208,102,2,W
+Los Angeles Rams,14,13,AWAY,Chicago Bears,6,15,162,52,4,100,194,3,L
+Los Angeles Rams,15,14,HOME,Philadelphia Eagles,23,30,325,82,3,270,111,1,L
+Los Angeles Rams,16,15,AWAY,Arizona Cardinals,31,9,192,269,1,159,104,0,W
+Los Angeles Rams,17,16,HOME,San Francisco 49ers,48,32,222,155,0,264,127,4,W
+Miami Dolphins,1,1,HOME,Tennessee Titans,27,20,222,120,2,220,116,3,W
+Miami Dolphins,2,2,AWAY,New York Jets,20,12,122,135,2,320,42,3,W
+Miami Dolphins,3,3,HOME,Oakland Raiders,28,20,332,41,0,325,109,2,W
+Miami Dolphins,4,4,AWAY,New England Patriots,7,38,116,56,2,274,175,2,L
+Miami Dolphins,5,5,AWAY,Cincinnati Bengals,17,27,169,128,3,229,103,1,L
+Miami Dolphins,6,6,HOME,Chicago Bears,31,28,380,161,3,303,164,3,W
+Miami Dolphins,7,7,HOME,Detroit Lions,21,32,215,107,0,209,248,0,L
+Miami Dolphins,8,8,AWAY,Houston Texans,23,42,254,116,1,239,188,0,L
+Miami Dolphins,9,9,HOME,New York Jets,13,6,104,64,0,202,80,4,W
+Miami Dolphins,10,10,AWAY,Green Bay Packers,12,31,163,131,2,182,195,1,L
+Miami Dolphins,12,11,AWAY,Indianapolis Colts,24,27,201,113,1,337,118,3,L
+Miami Dolphins,13,12,HOME,Buffalo Bills,21,17,115,60,1,217,198,3,W
+Miami Dolphins,14,13,HOME,New England Patriots,34,33,223,189,0,344,77,0,W
+Miami Dolphins,15,14,AWAY,Minnesota Vikings,17,41,37,156,0,198,220,1,L
+Miami Dolphins,16,15,HOME,Jacksonville Jaguars,7,17,121,62,2,118,126,1,L
+Miami Dolphins,17,16,AWAY,Buffalo Bills,17,42,126,99,4,215,166,1,L
+Minnesota Vikings,1,1,HOME,San Francisco 49ers,24,16,227,116,1,237,90,4,W
+Minnesota Vikings,3,3,HOME,Buffalo Bills,6,27,278,14,3,164,128,0,L
+Minnesota Vikings,4,4,AWAY,Los Angeles Rams,31,38,392,54,1,456,100,0,L
+Minnesota Vikings,5,5,AWAY,Philadelphia Eagles,23,21,298,77,1,283,81,2,W
+Minnesota Vikings,6,6,HOME,Arizona Cardinals,27,17,216,195,2,208,60,2,W
+Minnesota Vikings,7,7,AWAY,New York Jets,37,17,228,88,0,192,71,4,W
+Minnesota Vikings,8,8,HOME,New Orleans Saints,20,30,338,85,2,164,106,1,L
+Minnesota Vikings,9,9,HOME,Detroit Lions,24,9,155,128,2,143,66,1,W
+Minnesota Vikings,11,10,AWAY,Chicago Bears,20,25,246,22,3,160,148,3,L
+Minnesota Vikings,12,11,HOME,Green Bay Packers,24,17,325,91,0,172,82,1,W
+Minnesota Vikings,13,12,AWAY,New England Patriots,10,24,183,95,2,311,160,1,L
+Minnesota Vikings,14,13,AWAY,Seattle Seahawks,7,21,199,77,1,60,214,1,L
+Minnesota Vikings,15,14,HOME,Miami Dolphins,41,17,198,220,1,37,156,0,W
+Minnesota Vikings,16,15,AWAY,Detroit Lions,27,9,240,100,0,137,86,0,W
+Minnesota Vikings,17,16,HOME,Chicago Bears,10,24,101,63,0,163,169,0,L
+New England Patriots,1,1,HOME,Houston Texans,27,20,267,122,3,158,167,2,W
+New England Patriots,2,2,AWAY,Jacksonville Jaguars,20,31,220,82,1,376,104,2,L
+New England Patriots,3,3,AWAY,Detroit Lions,10,26,120,89,1,255,159,1,L
+New England Patriots,4,4,HOME,Miami Dolphins,38,7,274,175,2,116,56,2,W
+New England Patriots,5,5,HOME,Indianapolis Colts,38,24,341,97,2,355,84,3,W
+New England Patriots,6,6,HOME,Kansas City Chiefs,43,40,327,173,1,352,94,2,W
+New England Patriots,7,7,AWAY,Chicago Bears,38,31,273,108,3,319,134,2,W
+New England Patriots,8,8,AWAY,Buffalo Bills,25,6,311,76,0,287,46,2,W
+New England Patriots,9,9,HOME,Green Bay Packers,31,17,310,123,0,250,117,1,W
+New England Patriots,10,10,AWAY,Tennessee Titans,10,34,244,40,0,235,150,0,L
+New England Patriots,12,11,AWAY,New York Jets,27,13,283,215,0,264,74,1,W
+New England Patriots,13,12,HOME,Minnesota Vikings,24,10,311,160,1,183,95,2,W
+New England Patriots,14,13,AWAY,Miami Dolphins,33,34,344,77,0,223,189,0,L
+New England Patriots,15,14,AWAY,Pittsburgh Steelers,10,17,272,96,1,218,158,2,L
+New England Patriots,16,15,HOME,Buffalo Bills,24,12,117,273,3,217,72,3,W
+New England Patriots,17,16,HOME,New York Jets,38,3,244,131,0,135,104,3,W
+New Orleans Saints,1,1,HOME,Tampa Bay Buccaneers,40,48,432,43,2,417,112,0,L
+New Orleans Saints,2,2,HOME,Cleveland Browns,21,18,213,62,2,234,93,1,W
+New Orleans Saints,3,3,AWAY,Atlanta Falcons,43,37,391,143,0,359,48,0,W
+New Orleans Saints,4,4,AWAY,New York Giants,33,18,219,170,0,234,65,2,W
+New Orleans Saints,5,5,HOME,Washington Redskins,43,19,349,98,1,244,39,2,W
+New Orleans Saints,7,6,AWAY,Baltimore Ravens,24,23,205,134,1,274,77,0,W
+New Orleans Saints,8,7,AWAY,Minnesota Vikings,30,20,164,106,1,338,85,2,W
+New Orleans Saints,9,8,HOME,Los Angeles Rams,45,35,346,141,1,391,92,1,W
+New Orleans Saints,10,9,AWAY,Cincinnati Bengals,51,14,265,244,0,174,110,2,W
+New Orleans Saints,11,10,HOME,Philadelphia Eagles,48,7,373,173,0,138,58,3,W
+New Orleans Saints,12,11,HOME,Atlanta Falcons,31,17,162,150,1,340,26,4,W
+New Orleans Saints,13,12,AWAY,Dallas Cowboys,10,13,111,65,1,209,99,2,L
+New Orleans Saints,14,13,AWAY,Tampa Bay Buccaneers,28,14,198,100,2,174,105,1,W
+New Orleans Saints,15,14,AWAY,Carolina Panthers,12,9,191,155,2,149,98,2,W
+New Orleans Saints,16,15,HOME,Pittsburgh Steelers,31,28,313,57,1,364,65,2,W
+New Orleans Saints,17,16,HOME,Carolina Panthers,14,33,110,184,1,263,111,0,L
+New York Giants,1,1,HOME,Jacksonville Jaguars,15,20,210,114,2,168,137,1,L
+New York Giants,2,2,AWAY,Dallas Cowboys,13,20,220,35,1,160,138,0,L
+New York Giants,3,3,AWAY,Houston Texans,27,22,265,114,0,368,59,2,W
+New York Giants,4,4,HOME,New Orleans Saints,18,33,234,65,2,219,170,0,L
+New York Giants,5,5,AWAY,Carolina Panthers,31,33,382,50,3,232,118,2,L
+New York Giants,6,6,HOME,Philadelphia Eagles,13,34,254,147,1,271,108,0,L
+New York Giants,7,7,AWAY,Atlanta Falcons,20,23,372,61,0,356,67,1,L
+New York Giants,8,8,HOME,Washington Redskins,13,20,266,37,2,178,182,1,L
+New York Giants,10,9,AWAY,San Francisco 49ers,27,23,180,97,0,250,124,2,W
+New York Giants,11,10,HOME,Tampa Bay Buccaneers,38,35,196,163,0,359,151,4,W
+New York Giants,12,11,AWAY,Philadelphia Eagles,22,25,276,126,1,214,127,0,L
+New York Giants,13,12,HOME,Chicago Bears,30,27,197,141,1,258,118,3,W
+New York Giants,14,13,AWAY,Washington Redskins,40,16,175,227,1,204,84,3,W
+New York Giants,15,14,HOME,Tennessee Titans,0,17,213,47,2,86,215,0,L
+New York Giants,16,15,AWAY,Indianapolis Colts,27,28,309,83,1,353,49,1,L
+New York Giants,17,16,HOME,Dallas Cowboys,35,36,298,143,2,368,51,1,L
+New York Jets,1,1,AWAY,Detroit Lions,48,17,180,169,2,300,39,5,W
+New York Jets,2,2,HOME,Miami Dolphins,12,20,320,42,3,122,135,2,L
+New York Jets,3,3,AWAY,Cleveland Browns,17,21,161,107,3,190,133,0,L
+New York Jets,4,4,AWAY,Jacksonville Jaguars,12,31,144,34,0,377,126,3,L
+New York Jets,5,5,HOME,Denver Broncos,34,16,189,323,2,344,92,1,W
+New York Jets,6,6,HOME,Indianapolis Colts,42,34,267,107,2,301,127,4,W
+New York Jets,7,7,HOME,Minnesota Vikings,17,37,192,71,4,228,88,0,L
+New York Jets,8,8,AWAY,Chicago Bears,10,24,150,57,0,216,179,0,L
+New York Jets,9,9,AWAY,Miami Dolphins,6,13,202,80,4,104,64,0,L
+New York Jets,10,10,HOME,Buffalo Bills,10,41,116,83,2,239,212,0,L
+New York Jets,12,11,HOME,New England Patriots,13,27,264,74,1,283,215,0,L
+New York Jets,13,12,AWAY,Tennessee Titans,22,26,124,156,1,273,130,1,L
+New York Jets,14,13,AWAY,Buffalo Bills,27,23,170,78,2,192,176,3,W
+New York Jets,15,14,HOME,Houston Texans,22,29,228,90,1,239,47,0,L
+New York Jets,16,15,HOME,Green Bay Packers,38,44,323,47,0,413,127,1,L
+New York Jets,17,16,AWAY,New England Patriots,3,38,135,104,3,244,131,0,L
+Oakland Raiders,1,1,HOME,Los Angeles Rams,13,33,300,95,3,225,140,0,L
+Oakland Raiders,2,2,AWAY,Denver Broncos,19,20,281,92,0,217,168,1,L
+Oakland Raiders,3,3,AWAY,Miami Dolphins,20,28,325,109,2,332,41,0,L
+Oakland Raiders,4,4,HOME,Cleveland Browns,45,42,426,139,2,279,208,4,W
+Oakland Raiders,5,5,AWAY,Los Angeles Chargers,10,26,248,41,2,333,79,0,L
+Oakland Raiders,6,6,HOME,Seattle Seahawks,3,27,106,79,2,214,155,1,L
+Oakland Raiders,8,7,HOME,Indianapolis Colts,28,42,244,103,1,239,222,0,L
+Oakland Raiders,9,8,AWAY,San Francisco 49ers,3,34,140,102,0,262,143,0,L
+Oakland Raiders,10,9,HOME,Los Angeles Chargers,6,20,203,114,1,222,113,1,L
+Oakland Raiders,11,10,AWAY,Arizona Cardinals,23,21,173,152,0,128,154,2,W
+Oakland Raiders,12,11,AWAY,Baltimore Ravens,17,34,182,67,1,174,242,2,L
+Oakland Raiders,13,12,HOME,Kansas City Chiefs,33,40,271,171,3,295,174,1,L
+Oakland Raiders,14,13,HOME,Pittsburgh Steelers,24,21,299,55,1,300,40,1,W
+Oakland Raiders,15,14,AWAY,Cincinnati Bengals,16,30,229,68,2,123,171,1,L
+Oakland Raiders,16,15,HOME,Denver Broncos,27,14,159,114,0,200,100,2,W
+Oakland Raiders,17,16,AWAY,Kansas City Chiefs,3,35,165,127,4,310,99,1,L
+Philadelphia Eagles,1,1,HOME,Atlanta Falcons,18,12,119,113,2,225,74,1,W
+Philadelphia Eagles,2,2,AWAY,Tampa Bay Buccaneers,21,27,321,91,2,393,43,2,L
+Philadelphia Eagles,3,3,HOME,Indianapolis Colts,20,16,227,152,2,141,68,0,W
+Philadelphia Eagles,4,4,AWAY,Tennessee Titans,23,26,315,117,1,327,70,1,L
+Philadelphia Eagles,5,5,HOME,Minnesota Vikings,21,23,283,81,2,298,77,1,L
+Philadelphia Eagles,6,6,AWAY,New York Giants,34,13,271,108,0,254,147,1,W
+Philadelphia Eagles,7,7,HOME,Carolina Panthers,17,21,284,58,1,250,121,0,L
+Philadelphia Eagles,8,8,AWAY,Jacksonville Jaguars,24,18,262,133,2,265,70,1,W
+Philadelphia Eagles,10,9,HOME,Dallas Cowboys,20,27,350,71,1,239,171,0,L
+Philadelphia Eagles,11,10,AWAY,New Orleans Saints,7,48,138,58,3,373,173,0,L
+Philadelphia Eagles,12,11,HOME,New York Giants,25,22,214,127,0,276,126,1,W
+Philadelphia Eagles,13,12,HOME,Washington Redskins,28,13,306,130,1,131,104,1,W
+Philadelphia Eagles,14,13,AWAY,Dallas Cowboys,23,29,222,34,1,434,142,3,L
+Philadelphia Eagles,15,14,AWAY,Los Angeles Rams,30,23,270,111,1,325,82,3,W
+Philadelphia Eagles,16,15,HOME,Houston Texans,32,30,462,57,3,309,62,1,W
+Philadelphia Eagles,17,16,AWAY,Washington Redskins,24,0,231,129,1,68,21,1,W
+Pittsburgh Steelers,2,2,HOME,Kansas City Chiefs,37,42,442,33,0,322,127,1,L
+Pittsburgh Steelers,3,3,AWAY,Tampa Bay Buccaneers,30,27,335,78,1,392,63,4,W
+Pittsburgh Steelers,4,4,HOME,Baltimore Ravens,14,26,265,19,2,355,96,1,L
+Pittsburgh Steelers,5,5,HOME,Atlanta Falcons,41,17,250,131,1,262,62,1,W
+Pittsburgh Steelers,6,6,AWAY,Cincinnati Bengals,28,21,369,112,0,213,62,0,W
+Pittsburgh Steelers,8,7,HOME,Cleveland Browns,33,18,253,168,2,163,74,1,W
+Pittsburgh Steelers,9,8,AWAY,Baltimore Ravens,23,16,282,113,0,204,61,0,W
+Pittsburgh Steelers,10,9,HOME,Carolina Panthers,52,21,319,138,0,147,95,2,W
+Pittsburgh Steelers,11,10,AWAY,Jacksonville Jaguars,20,16,297,26,3,64,179,1,W
+Pittsburgh Steelers,12,11,AWAY,Denver Broncos,17,24,452,75,4,184,124,0,L
+Pittsburgh Steelers,13,12,HOME,Los Angeles Chargers,30,33,271,65,1,286,85,0,L
+Pittsburgh Steelers,14,13,AWAY,Oakland Raiders,21,24,300,40,1,299,55,1,L
+Pittsburgh Steelers,15,14,HOME,New England Patriots,17,10,218,158,2,272,96,1,W
+Pittsburgh Steelers,16,15,AWAY,New Orleans Saints,28,31,364,65,2,313,57,1,L
+Pittsburgh Steelers,17,16,HOME,Cincinnati Bengals,16,13,278,65,1,71,125,0,W
+San Francisco 49ers,1,1,AWAY,Minnesota Vikings,16,24,237,90,4,227,116,1,L
+San Francisco 49ers,2,2,HOME,Detroit Lions,30,27,156,190,0,329,98,1,W
+San Francisco 49ers,3,3,AWAY,Kansas City Chiefs,27,38,228,178,0,307,77,0,L
+San Francisco 49ers,4,4,AWAY,Los Angeles Chargers,27,29,288,76,2,242,126,1,L
+San Francisco 49ers,5,5,HOME,Arizona Cardinals,18,28,300,147,5,164,56,0,L
+San Francisco 49ers,6,6,AWAY,Green Bay Packers,30,33,227,174,3,405,116,0,L
+San Francisco 49ers,7,7,HOME,Los Angeles Rams,10,39,121,107,4,193,146,0,L
+San Francisco 49ers,8,8,AWAY,Arizona Cardinals,15,18,160,107,0,233,88,2,L
+San Francisco 49ers,9,9,HOME,Oakland Raiders,34,3,262,143,0,140,102,0,W
+San Francisco 49ers,10,10,HOME,New York Giants,23,27,250,124,2,180,97,0,L
+San Francisco 49ers,12,11,AWAY,Tampa Bay Buccaneers,9,27,194,148,2,304,108,0,L
+San Francisco 49ers,13,12,AWAY,Seattle Seahawks,16,43,386,66,3,163,168,0,L
+San Francisco 49ers,14,13,HOME,Denver Broncos,20,14,305,84,1,171,103,0,W
+San Francisco 49ers,15,14,HOME,Seattle Seahawks,26,23,257,94,1,217,168,0,W
+San Francisco 49ers,16,15,HOME,Chicago Bears,9,14,232,47,1,235,90,2,L
+San Francisco 49ers,17,16,AWAY,Los Angeles Rams,32,48,264,127,4,222,155,0,L
+Seattle Seahawks,1,1,AWAY,Denver Broncos,24,27,242,64,3,324,146,3,L
+Seattle Seahawks,2,2,AWAY,Chicago Bears,17,24,202,74,2,185,86,2,L
+Seattle Seahawks,3,3,HOME,Dallas Cowboys,24,13,182,113,0,137,166,3,W
+Seattle Seahawks,4,4,AWAY,Arizona Cardinals,20,17,160,171,0,171,92,1,W
+Seattle Seahawks,5,5,HOME,Los Angeles Rams,31,33,183,190,0,313,155,2,L
+Seattle Seahawks,6,6,AWAY,Oakland Raiders,27,3,214,155,1,106,79,2,W
+Seattle Seahawks,8,7,AWAY,Detroit Lions,28,14,237,176,0,297,34,3,W
+Seattle Seahawks,9,8,HOME,Los Angeles Chargers,17,25,202,154,1,215,160,0,L
+Seattle Seahawks,10,9,AWAY,Los Angeles Rams,31,36,141,273,1,307,149,0,L
+Seattle Seahawks,11,10,HOME,Green Bay Packers,27,24,205,173,1,311,48,0,W
+Seattle Seahawks,12,11,AWAY,Carolina Panthers,30,27,322,75,0,256,220,1,W
+Seattle Seahawks,13,12,HOME,San Francisco 49ers,43,16,163,168,0,386,66,3,W
+Seattle Seahawks,14,13,HOME,Minnesota Vikings,21,7,60,214,1,199,77,1,W
+Seattle Seahawks,15,14,AWAY,San Francisco 49ers,23,26,217,168,0,257,94,1,L
+Seattle Seahawks,16,15,HOME,Kansas City Chiefs,38,31,254,210,0,265,154,2,W
+Seattle Seahawks,17,16,HOME,Arizona Cardinals,27,24,109,182,1,113,85,2,W
+Tampa Bay Buccaneers,1,1,AWAY,New Orleans Saints,48,40,417,112,0,432,43,2,W
+Tampa Bay Buccaneers,2,2,HOME,Philadelphia Eagles,27,21,393,43,2,321,91,2,W
+Tampa Bay Buccaneers,3,3,HOME,Pittsburgh Steelers,27,30,392,63,4,335,78,1,L
+Tampa Bay Buccaneers,4,4,AWAY,Chicago Bears,10,48,251,60,3,344,139,0,L
+Tampa Bay Buccaneers,6,5,AWAY,Atlanta Falcons,29,34,389,121,2,347,70,0,L
+Tampa Bay Buccaneers,7,6,HOME,Cleveland Browns,26,23,342,114,4,186,119,1,W
+Tampa Bay Buccaneers,8,7,AWAY,Cincinnati Bengals,34,37,450,126,4,264,138,0,L
+Tampa Bay Buccaneers,9,8,AWAY,Carolina Panthers,28,42,219,82,2,228,179,0,L
+Tampa Bay Buccaneers,10,9,HOME,Washington Redskins,3,16,398,103,4,170,116,0,L
+Tampa Bay Buccaneers,11,10,AWAY,New York Giants,35,38,359,151,4,196,163,0,L
+Tampa Bay Buccaneers,12,11,HOME,San Francisco 49ers,27,9,304,108,0,194,148,2,W
+Tampa Bay Buccaneers,13,12,HOME,Carolina Panthers,24,17,220,95,1,276,168,4,W
+Tampa Bay Buccaneers,14,13,HOME,New Orleans Saints,14,28,174,105,1,198,100,2,L
+Tampa Bay Buccaneers,15,14,AWAY,Baltimore Ravens,12,20,156,85,1,128,242,2,L
+Tampa Bay Buccaneers,16,15,AWAY,Dallas Cowboys,20,27,320,63,2,152,80,0,L
+Tampa Bay Buccaneers,17,16,HOME,Atlanta Falcons,32,34,341,92,1,380,109,1,L
+Tennessee Titans,1,1,AWAY,Miami Dolphins,20,27,220,116,3,222,120,2,L
+Tennessee Titans,2,2,HOME,Houston Texans,20,17,183,100,0,289,148,1,W
+Tennessee Titans,3,3,AWAY,Jacksonville Jaguars,9,6,83,150,0,145,87,1,W
+Tennessee Titans,4,4,HOME,Philadelphia Eagles,26,23,327,70,1,315,117,1,W
+Tennessee Titans,5,5,AWAY,Buffalo Bills,12,13,121,100,3,79,144,1,L
+Tennessee Titans,6,6,HOME,Baltimore Ravens,0,21,51,55,0,238,123,1,L
+Tennessee Titans,7,7,AWAY,Los Angeles Chargers,19,20,226,164,1,297,47,0,L
+Tennessee Titans,9,8,AWAY,Dallas Cowboys,28,14,215,125,2,225,72,2,W
+Tennessee Titans,10,9,HOME,New England Patriots,34,10,235,150,0,244,40,0,W
+Tennessee Titans,11,10,AWAY,Indianapolis Colts,10,38,176,91,2,295,102,0,L
+Tennessee Titans,12,11,AWAY,Houston Texans,17,34,260,105,1,181,281,0,L
+Tennessee Titans,13,12,HOME,New York Jets,26,22,273,130,1,124,156,1,W
+Tennessee Titans,14,13,HOME,Jacksonville Jaguars,30,9,162,264,1,195,60,1,W
+Tennessee Titans,15,14,AWAY,New York Giants,17,0,86,215,0,213,47,2,W
+Tennessee Titans,16,15,HOME,Washington Redskins,25,16,192,99,0,131,161,2,W
+Tennessee Titans,17,16,HOME,Indianapolis Colts,17,33,165,93,3,278,158,2,L
+Washington Redskins,1,1,AWAY,Arizona Cardinals,24,6,247,182,1,145,68,2,W
+Washington Redskins,2,2,HOME,Indianapolis Colts,9,21,269,65,1,177,104,2,L
+Washington Redskins,3,3,HOME,Green Bay Packers,31,17,220,166,1,240,100,1,W
+Washington Redskins,5,4,AWAY,New Orleans Saints,19,43,244,39,2,349,98,1,L
+Washington Redskins,6,5,HOME,Carolina Panthers,23,17,156,132,0,269,81,3,W
+Washington Redskins,7,6,HOME,Dallas Cowboys,20,17,175,130,0,250,73,2,W
+Washington Redskins,8,7,AWAY,New York Giants,20,13,178,182,1,266,37,2,W
+Washington Redskins,9,8,HOME,Atlanta Falcons,14,38,287,79,1,337,154,1,L
+Washington Redskins,10,9,AWAY,Tampa Bay Buccaneers,16,3,170,116,0,398,103,4,W
+Washington Redskins,11,10,HOME,Houston Texans,21,23,154,124,2,181,139,3,L
+Washington Redskins,12,11,AWAY,Dallas Cowboys,23,31,251,80,3,258,146,0,L
+Washington Redskins,13,12,AWAY,Philadelphia Eagles,13,28,131,104,1,306,130,1,L
+Washington Redskins,14,13,HOME,New York Giants,16,40,204,84,3,175,227,1,L
+Washington Redskins,15,14,AWAY,Jacksonville Jaguars,16,13,136,109,0,20,172,2,W
+Washington Redskins,16,15,AWAY,Tennessee Titans,16,25,131,161,2,192,99,0,L
+Washington Redskins,17,16,HOME,Philadelphia Eagles,0,24,68,21,1,231,129,1,L
+Arizona Cardinals,2,2,AWAY,Baltimore Ravens,17,23,329,20,0,258,182,0,L
+Arizona Cardinals,3,3,HOME,Carolina Panthers,20,38,127,121,2,240,173,1,L
+Arizona Cardinals,4,4,HOME,Seattle Seahawks,10,27,206,115,1,225,115,0,L
+Arizona Cardinals,5,5,AWAY,Cincinnati Bengals,26,23,248,266,0,262,108,0,W
+Arizona Cardinals,6,6,HOME,Atlanta Falcons,34,33,340,102,0,341,103,0,W
+Arizona Cardinals,7,7,AWAY,New York Giants,27,21,89,156,0,156,107,3,W
+Arizona Cardinals,8,8,AWAY,New Orleans Saints,9,31,197,40,0,373,137,1,L
+Arizona Cardinals,9,9,HOME,San Francisco 49ers,25,28,204,153,0,310,101,0,L
+Arizona Cardinals,10,10,AWAY,Tampa Bay Buccaneers,27,30,342,75,2,339,118,3,L
+Arizona Cardinals,11,11,AWAY,San Francisco 49ers,26,36,131,135,2,408,34,2,L
+Arizona Cardinals,13,12,HOME,Los Angeles Rams,7,34,124,74,1,417,132,0,L
+Arizona Cardinals,14,13,HOME,Pittsburgh Steelers,17,23,165,71,3,135,140,2,L
+Arizona Cardinals,15,14,HOME,Cleveland Browns,38,24,219,226,1,241,152,2,W
+Arizona Cardinals,16,15,AWAY,Seattle Seahawks,27,13,159,253,0,133,91,1,W
+Arizona Cardinals,17,16,AWAY,Los Angeles Rams,24,31,322,71,5,311,113,0,L
+Atlanta Falcons,1,1,AWAY,Minnesota Vikings,12,28,272,73,3,97,172,0,L
+Atlanta Falcons,2,2,HOME,Philadelphia Eagles,24,20,310,57,3,237,49,3,W
+Atlanta Falcons,3,3,AWAY,Indianapolis Colts,24,27,304,93,1,300,79,0,L
+Atlanta Falcons,4,4,HOME,Tennessee Titans,10,24,364,58,1,227,138,0,L
+Atlanta Falcons,5,5,AWAY,Houston Texans,32,53,316,57,1,426,166,1,L
+Atlanta Falcons,6,6,AWAY,Arizona Cardinals,33,34,341,103,0,340,102,0,L
+Atlanta Falcons,7,7,HOME,Los Angeles Rams,10,37,186,38,3,291,90,0,L
+Atlanta Falcons,8,8,HOME,Seattle Seahawks,20,27,441,69,3,171,151,0,L
+Atlanta Falcons,10,9,AWAY,New Orleans Saints,26,9,174,143,1,258,52,0,W
+Atlanta Falcons,11,10,AWAY,Carolina Panthers,29,3,295,54,0,270,77,4,W
+Atlanta Falcons,12,11,HOME,Tampa Bay Buccaneers,22,35,280,57,2,313,133,2,L
+Atlanta Falcons,13,12,HOME,New Orleans Saints,18,26,259,89,3,184,95,0,L
+Atlanta Falcons,14,13,HOME,Carolina Panthers,40,20,302,159,0,245,100,4,W
+Atlanta Falcons,15,14,AWAY,San Francisco 49ers,29,22,201,89,1,193,120,2,W
+Atlanta Falcons,16,15,HOME,Jacksonville Jaguars,24,12,383,135,2,173,115,1,W
+Atlanta Falcons,17,16,AWAY,Tampa Bay Buccaneers,28,22,286,87,1,193,136,3,W
+Baltimore Ravens,1,1,AWAY,Miami Dolphins,59,10,378,265,0,179,21,3,W
+Baltimore Ravens,2,2,HOME,Arizona Cardinals,23,17,258,182,0,329,20,0,W
+Baltimore Ravens,3,3,AWAY,Kansas City Chiefs,28,33,249,203,0,363,140,0,L
+Baltimore Ravens,4,4,HOME,Cleveland Browns,25,40,222,173,3,337,193,1,L
+Baltimore Ravens,5,5,AWAY,Pittsburgh Steelers,26,23,139,138,3,192,77,2,W
+Baltimore Ravens,6,6,HOME,Cincinnati Bengals,23,17,228,269,1,217,33,1,W
+Baltimore Ravens,7,7,AWAY,Seattle Seahawks,30,16,141,199,0,241,106,2,W
+Baltimore Ravens,9,8,HOME,New England Patriots,37,20,162,210,2,268,74,2,W
+Baltimore Ravens,10,9,AWAY,Cincinnati Bengals,49,13,243,136,1,150,157,3,W
+Baltimore Ravens,11,10,HOME,Houston Texans,41,7,235,256,0,110,122,2,W
+Baltimore Ravens,12,11,AWAY,Los Angeles Rams,45,6,195,285,0,199,22,2,W
+Baltimore Ravens,13,12,HOME,San Francisco 49ers,20,17,105,178,1,157,174,1,W
+Baltimore Ravens,14,13,AWAY,Buffalo Bills,24,17,139,118,1,105,104,1,W
+Baltimore Ravens,15,14,HOME,New York Jets,42,21,212,218,0,207,103,2,W
+Baltimore Ravens,16,15,AWAY,Cleveland Browns,31,15,238,243,1,184,57,1,W
+Baltimore Ravens,17,16,HOME,Pittsburgh Steelers,28,10,81,223,2,77,91,2,W
+Buffalo Bills,1,1,AWAY,New York Jets,17,16,242,128,4,155,68,1,W
+Buffalo Bills,2,2,AWAY,New York Giants,28,14,237,151,0,241,129,2,W
+Buffalo Bills,3,3,HOME,Cincinnati Bengals,21,17,241,175,2,240,66,4,W
+Buffalo Bills,4,4,HOME,New England Patriots,10,16,240,135,4,150,74,1,L
+Buffalo Bills,5,5,AWAY,Tennessee Titans,14,7,204,109,1,150,102,0,W
+Buffalo Bills,7,6,HOME,Miami Dolphins,31,21,188,117,0,272,109,2,W
+Buffalo Bills,8,7,HOME,Philadelphia Eagles,13,31,155,98,1,153,218,1,L
+Buffalo Bills,9,8,HOME,Washington Redskins,24,9,146,122,0,116,127,0,W
+Buffalo Bills,10,9,AWAY,Cleveland Browns,16,19,260,84,0,221,147,0,L
+Buffalo Bills,11,10,AWAY,Miami Dolphins,37,20,256,168,0,280,23,1,W
+Buffalo Bills,12,11,HOME,Denver Broncos,20,3,180,244,1,49,85,1,W
+Buffalo Bills,13,12,AWAY,Dallas Cowboys,26,15,232,124,0,323,103,2,W
+Buffalo Bills,14,13,HOME,Baltimore Ravens,17,24,105,104,1,139,118,1,L
+Buffalo Bills,15,14,AWAY,Pittsburgh Steelers,17,10,131,130,2,178,51,5,W
+Buffalo Bills,16,15,AWAY,New England Patriots,17,24,176,92,0,271,143,1,L
+Buffalo Bills,17,16,HOME,New York Jets,6,13,236,73,3,185,86,1,L
+Carolina Panthers,1,1,HOME,Los Angeles Rams,27,30,216,127,3,183,166,1,L
+Carolina Panthers,2,2,HOME,Tampa Bay Buccaneers,14,20,313,39,1,189,100,0,L
+Carolina Panthers,3,3,AWAY,Arizona Cardinals,38,20,240,173,1,127,121,2,W
+Carolina Panthers,4,4,AWAY,Houston Texans,16,10,203,94,3,128,136,2,W
+Carolina Panthers,5,5,HOME,Jacksonville Jaguars,34,27,160,285,0,358,149,3,W
+Carolina Panthers,6,6,AWAY,Tampa Bay Buccaneers,37,26,209,59,1,365,42,7,W
+Carolina Panthers,8,7,AWAY,San Francisco 49ers,13,51,100,130,3,156,232,1,L
+Carolina Panthers,9,8,HOME,Tennessee Titans,30,20,214,156,1,310,121,3,W
+Carolina Panthers,10,9,AWAY,Green Bay Packers,16,24,281,120,2,225,163,0,L
+Carolina Panthers,11,10,HOME,Atlanta Falcons,3,29,270,77,4,295,54,0,L
+Carolina Panthers,12,11,AWAY,New Orleans Saints,31,34,230,121,1,300,118,1,L
+Carolina Panthers,13,12,HOME,Washington Redskins,21,29,213,65,2,114,248,0,L
+Carolina Panthers,14,13,AWAY,Atlanta Falcons,20,40,245,100,4,302,159,0,L
+Carolina Panthers,15,14,HOME,Seattle Seahawks,24,30,269,145,3,274,154,1,L
+Carolina Panthers,16,15,AWAY,Indianapolis Colts,6,38,199,87,3,106,218,0,L
+Carolina Panthers,17,16,HOME,New Orleans Saints,10,42,288,41,3,264,115,0,L
+Chicago Bears,1,1,HOME,Green Bay Packers,3,10,208,46,1,166,47,0,L
+Chicago Bears,2,2,AWAY,Denver Broncos,16,14,120,153,0,282,90,1,W
+Chicago Bears,3,3,AWAY,Washington Redskins,31,15,208,90,1,287,69,5,W
+Chicago Bears,4,4,HOME,Minnesota Vikings,16,6,197,72,0,182,40,2,W
+Chicago Bears,5,5,AWAY,Oakland Raiders,21,24,194,42,2,229,169,2,L
+Chicago Bears,7,6,HOME,New Orleans Saints,25,36,235,17,2,273,151,0,L
+Chicago Bears,8,7,HOME,Los Angeles Chargers,16,17,226,162,2,195,36,1,L
+Chicago Bears,9,8,AWAY,Philadelphia Eagles,14,22,102,62,1,227,146,0,L
+Chicago Bears,10,9,HOME,Detroit Lions,20,13,145,81,0,259,98,1,W
+Chicago Bears,11,10,AWAY,Los Angeles Rams,7,17,193,74,1,173,110,2,L
+Chicago Bears,12,11,HOME,New York Giants,19,14,270,65,2,134,109,1,W
+Chicago Bears,13,12,AWAY,Detroit Lions,24,20,331,88,1,259,105,1,W
+Chicago Bears,14,13,HOME,Dallas Cowboys,31,24,231,151,2,326,82,0,W
+Chicago Bears,15,14,AWAY,Green Bay Packers,13,21,319,96,3,192,100,0,L
+Chicago Bears,16,15,HOME,Kansas City Chiefs,3,26,133,101,0,244,106,0,L
+Chicago Bears,17,16,AWAY,Minnesota Vikings,21,19,179,158,1,126,174,3,W
+Cincinnati Bengals,1,1,AWAY,Seattle Seahawks,20,21,395,34,3,160,72,1,L
+Cincinnati Bengals,2,2,HOME,San Francisco 49ers,17,41,291,25,1,312,259,1,L
+Cincinnati Bengals,3,3,AWAY,Buffalo Bills,17,21,240,66,4,241,175,2,L
+Cincinnati Bengals,4,4,AWAY,Pittsburgh Steelers,3,27,102,73,2,260,66,1,L
+Cincinnati Bengals,5,5,HOME,Arizona Cardinals,23,26,262,108,0,248,266,0,L
+Cincinnati Bengals,6,6,AWAY,Baltimore Ravens,17,23,217,33,1,228,269,1,L
+Cincinnati Bengals,7,7,HOME,Jacksonville Jaguars,17,27,258,33,4,244,216,0,L
+Cincinnati Bengals,8,8,AWAY,Los Angeles Rams,10,24,297,104,0,372,98,0,L
+Cincinnati Bengals,10,9,HOME,Baltimore Ravens,13,49,150,157,3,243,136,1,L
+Cincinnati Bengals,11,10,AWAY,Oakland Raiders,10,17,73,173,2,273,113,2,L
+Cincinnati Bengals,12,11,HOME,Pittsburgh Steelers,10,16,158,86,2,179,159,1,L
+Cincinnati Bengals,13,12,HOME,New York Jets,22,6,233,44,0,209,62,0,W
+Cincinnati Bengals,14,13,AWAY,Cleveland Browns,19,27,272,179,1,187,146,2,L
+Cincinnati Bengals,15,14,HOME,New England Patriots,13,34,151,164,5,116,175,0,L
+Cincinnati Bengals,16,15,AWAY,Miami Dolphins,35,38,371,59,1,406,96,1,L
+Cincinnati Bengals,17,16,HOME,Cleveland Browns,33,23,182,179,1,239,74,3,W
+Cleveland Browns,1,1,HOME,Tennessee Titans,13,43,244,102,3,216,123,0,L
+Cleveland Browns,2,2,AWAY,New York Jets,23,3,305,70,1,169,93,1,W
+Cleveland Browns,3,3,HOME,Los Angeles Rams,13,20,175,95,1,254,90,3,L
+Cleveland Browns,4,4,AWAY,Baltimore Ravens,40,25,337,193,1,222,173,3,W
+Cleveland Browns,5,5,AWAY,San Francisco 49ers,3,31,78,102,4,171,275,0,L
+Cleveland Browns,6,6,HOME,Seattle Seahawks,28,32,249,157,4,284,170,1,L
+Cleveland Browns,8,7,AWAY,New England Patriots,13,27,151,159,3,239,79,0,L
+Cleveland Browns,9,8,AWAY,Denver Broncos,19,24,261,90,0,175,127,1,L
+Cleveland Browns,10,9,HOME,Buffalo Bills,19,16,221,147,0,260,84,0,W
+Cleveland Browns,11,10,HOME,Pittsburgh Steelers,21,7,189,104,0,178,58,4,W
+Cleveland Browns,12,11,HOME,Miami Dolphins,41,24,320,147,1,192,92,2,W
+Cleveland Browns,13,12,AWAY,Pittsburgh Steelers,13,20,173,106,2,199,124,1,L
+Cleveland Browns,14,13,HOME,Cincinnati Bengals,27,19,187,146,2,272,179,1,W
+Cleveland Browns,15,14,AWAY,Arizona Cardinals,24,38,241,152,2,219,226,1,L
+Cleveland Browns,16,15,HOME,Baltimore Ravens,15,31,184,57,1,238,243,1,L
+Cleveland Browns,17,16,AWAY,Cincinnati Bengals,23,33,239,74,3,182,179,1,L
+Dallas Cowboys,1,1,HOME,New York Giants,35,17,405,89,0,319,151,2,W
+Dallas Cowboys,2,2,AWAY,Washington Redskins,31,21,261,213,1,208,47,0,W
+Dallas Cowboys,3,3,HOME,Miami Dolphins,31,6,241,235,1,211,72,1,W
+Dallas Cowboys,4,4,AWAY,New Orleans Saints,10,12,212,45,3,149,117,1,L
+Dallas Cowboys,5,5,HOME,Green Bay Packers,24,34,441,122,3,215,120,0,L
+Dallas Cowboys,6,6,AWAY,New York Jets,22,24,270,129,0,326,56,1,L
+Dallas Cowboys,7,7,HOME,Philadelphia Eagles,37,10,213,189,1,168,115,4,W
+Dallas Cowboys,9,8,AWAY,New York Giants,37,18,257,172,2,171,100,3,W
+Dallas Cowboys,10,9,HOME,Minnesota Vikings,24,28,393,50,1,211,153,0,L
+Dallas Cowboys,11,10,AWAY,Detroit Lions,35,27,434,75,1,191,121,0,W
+Dallas Cowboys,12,11,AWAY,New England Patriots,9,13,212,109,1,181,101,0,L
+Dallas Cowboys,13,12,HOME,Buffalo Bills,15,26,323,103,2,232,124,0,L
+Dallas Cowboys,14,13,AWAY,Chicago Bears,24,31,326,82,0,231,151,2,L
+Dallas Cowboys,15,14,HOME,Los Angeles Rams,44,21,212,263,0,267,22,1,W
+Dallas Cowboys,16,15,AWAY,Philadelphia Eagles,9,17,257,54,1,313,118,0,L
+Dallas Cowboys,17,16,HOME,Washington Redskins,47,16,294,223,1,183,88,2,W
+Denver Broncos,1,1,AWAY,Oakland Raiders,16,24,249,95,0,259,98,0,L
+Denver Broncos,2,2,HOME,Chicago Bears,14,16,282,90,1,120,153,0,L
+Denver Broncos,3,3,AWAY,Green Bay Packers,16,27,161,149,3,235,77,0,L
+Denver Broncos,4,4,HOME,Jacksonville Jaguars,24,26,303,68,1,186,269,0,L
+Denver Broncos,5,5,AWAY,Los Angeles Chargers,20,13,159,191,2,211,35,3,W
+Denver Broncos,6,6,HOME,Tennessee Titans,16,0,167,103,1,165,39,3,W
+Denver Broncos,7,7,HOME,Kansas City Chiefs,6,30,134,71,1,191,80,0,L
+Denver Broncos,8,8,AWAY,Indianapolis Colts,13,15,166,113,0,191,127,1,L
+Denver Broncos,9,9,HOME,Cleveland Browns,24,19,175,127,1,261,90,0,W
+Denver Broncos,11,10,AWAY,Minnesota Vikings,23,27,270,124,1,284,37,2,L
+Denver Broncos,12,11,AWAY,Buffalo Bills,3,20,49,85,1,180,244,1,L
+Denver Broncos,13,12,HOME,Los Angeles Chargers,23,20,134,84,1,244,115,2,W
+Denver Broncos,14,13,AWAY,Houston Texans,38,24,301,90,1,280,134,3,W
+Denver Broncos,15,14,AWAY,Kansas City Chiefs,3,23,199,52,1,327,92,1,L
+Denver Broncos,16,15,HOME,Detroit Lions,27,17,198,150,0,95,96,0,W
+Denver Broncos,17,16,HOME,Oakland Raiders,16,15,168,70,1,380,97,1,W
+Detroit Lions,2,2,HOME,Los Angeles Chargers,13,10,245,94,2,287,137,2,W
+Detroit Lions,3,3,AWAY,Philadelphia Eagles,27,24,201,86,0,246,127,2,W
+Detroit Lions,4,4,HOME,Kansas City Chiefs,30,34,261,186,2,315,123,3,L
+Detroit Lions,6,5,AWAY,Green Bay Packers,22,23,243,56,0,277,170,3,L
+Detroit Lions,7,6,HOME,Minnesota Vikings,30,42,352,81,1,338,166,0,L
+Detroit Lions,8,7,HOME,New York Giants,31,26,316,59,2,290,80,1,W
+Detroit Lions,9,8,AWAY,Oakland Raiders,24,31,383,90,2,279,171,0,L
+Detroit Lions,10,9,AWAY,Chicago Bears,13,20,259,98,1,145,81,0,L
+Detroit Lions,11,10,HOME,Dallas Cowboys,27,35,191,121,0,434,75,1,L
+Detroit Lions,12,11,AWAY,Washington Redskins,16,19,189,175,4,144,86,2,L
+Detroit Lions,13,12,HOME,Chicago Bears,20,24,259,105,1,331,88,1,L
+Detroit Lions,14,13,AWAY,Minnesota Vikings,7,20,161,70,2,234,120,0,L
+Detroit Lions,15,14,HOME,Tampa Bay Buccaneers,17,38,250,45,3,446,49,1,L
+Detroit Lions,16,15,AWAY,Denver Broncos,17,27,95,96,0,198,150,0,L
+Detroit Lions,17,16,HOME,Green Bay Packers,20,23,134,171,1,312,120,1,L
+Green Bay Packers,1,1,AWAY,Chicago Bears,10,3,166,47,0,208,46,1,W
+Green Bay Packers,2,2,HOME,Minnesota Vikings,21,16,191,144,2,223,198,4,W
+Green Bay Packers,3,3,HOME,Denver Broncos,27,16,235,77,0,161,149,3,W
+Green Bay Packers,4,4,HOME,Philadelphia Eagles,27,34,414,77,2,160,176,0,L
+Green Bay Packers,5,5,AWAY,Dallas Cowboys,34,24,215,120,0,441,122,3,W
+Green Bay Packers,6,6,HOME,Detroit Lions,23,22,277,170,3,243,56,0,W
+Green Bay Packers,7,7,HOME,Oakland Raiders,42,24,421,60,0,329,155,2,W
+Green Bay Packers,8,8,AWAY,Kansas City Chiefs,31,24,256,118,0,249,88,1,W
+Green Bay Packers,9,9,AWAY,Los Angeles Chargers,11,26,139,45,0,283,159,0,L
+Green Bay Packers,10,10,HOME,Carolina Panthers,24,16,225,163,0,281,120,2,W
+Green Bay Packers,12,11,AWAY,San Francisco 49ers,8,37,81,117,1,227,112,0,L
+Green Bay Packers,13,12,AWAY,New York Giants,31,13,243,79,0,240,95,3,W
+Green Bay Packers,14,13,HOME,Washington Redskins,20,15,167,174,1,141,121,1,W
+Green Bay Packers,15,14,HOME,Chicago Bears,21,13,192,100,0,319,96,3,W
+Green Bay Packers,16,15,AWAY,Minnesota Vikings,23,10,199,184,3,82,57,1,W
+Green Bay Packers,17,16,AWAY,Detroit Lions,23,20,312,120,1,134,171,1,W
+Houston Texans,1,1,AWAY,New Orleans Saints,28,30,234,180,1,362,148,1,L
+Houston Texans,2,2,HOME,Jacksonville Jaguars,13,12,137,126,0,178,103,1,W
+Houston Texans,3,3,AWAY,Los Angeles Chargers,27,20,337,39,1,293,73,1,W
+Houston Texans,4,4,HOME,Carolina Panthers,10,16,128,136,2,203,94,3,L
+Houston Texans,5,5,HOME,Atlanta Falcons,53,32,426,166,1,316,57,1,W
+Houston Texans,6,6,AWAY,Kansas City Chiefs,31,24,280,192,3,256,53,2,W
+Houston Texans,7,7,AWAY,Indianapolis Colts,23,30,291,100,2,321,62,1,L
+Houston Texans,8,8,HOME,Oakland Raiders,27,24,258,130,0,285,93,0,W
+Houston Texans,9,9,AWAY,Jacksonville Jaguars,26,3,194,216,1,282,74,4,W
+Houston Texans,11,10,AWAY,Baltimore Ravens,7,41,110,122,2,235,256,0,L
+Houston Texans,12,11,HOME,Indianapolis Colts,20,17,297,99,1,121,175,0,W
+Houston Texans,13,12,HOME,New England Patriots,28,22,224,52,0,303,145,1,W
+Houston Texans,14,13,HOME,Denver Broncos,24,38,280,134,3,301,90,1,L
+Houston Texans,15,14,AWAY,Tennessee Titans,24,21,234,140,2,269,163,1,W
+Houston Texans,16,15,AWAY,Tampa Bay Buccaneers,23,20,161,68,2,329,106,5,W
+Houston Texans,17,16,HOME,Tennessee Titans,14,35,192,109,1,222,245,0,L
+Indianapolis Colts,1,1,AWAY,Los Angeles Chargers,24,30,173,203,0,310,125,2,L
+Indianapolis Colts,2,2,AWAY,Tennessee Titans,19,17,121,167,2,119,124,0,W
+Indianapolis Colts,3,3,HOME,Atlanta Falcons,27,24,300,79,0,304,93,1,W
+Indianapolis Colts,4,4,HOME,Oakland Raiders,24,31,265,81,2,189,188,1,L
+Indianapolis Colts,5,5,AWAY,Kansas City Chiefs,19,13,151,180,1,288,36,1,W
+Indianapolis Colts,7,6,HOME,Houston Texans,30,23,321,62,1,291,100,2,W
+Indianapolis Colts,8,7,HOME,Denver Broncos,15,13,191,127,1,166,113,0,W
+Indianapolis Colts,9,8,AWAY,Pittsburgh Steelers,24,26,189,139,3,183,90,2,L
+Indianapolis Colts,10,9,HOME,Miami Dolphins,12,16,191,109,3,159,70,2,L
+Indianapolis Colts,11,10,HOME,Jacksonville Jaguars,33,13,125,264,2,279,29,1,W
+Indianapolis Colts,12,11,AWAY,Houston Texans,17,20,121,175,0,297,99,1,L
+Indianapolis Colts,13,12,HOME,Tennessee Titans,17,31,309,82,3,138,154,2,L
+Indianapolis Colts,14,13,AWAY,Tampa Bay Buccaneers,35,38,243,66,1,467,75,4,L
+Indianapolis Colts,15,14,AWAY,New Orleans Saints,7,34,159,46,0,307,117,0,L
+Indianapolis Colts,16,15,HOME,Carolina Panthers,38,6,106,218,0,199,87,3,W
+Indianapolis Colts,17,16,AWAY,Jacksonville Jaguars,20,38,143,132,2,286,67,1,L
+Jacksonville Jaguars,1,1,HOME,Kansas City Chiefs,26,40,347,81,2,378,113,0,L
+Jacksonville Jaguars,2,2,AWAY,Houston Texans,12,13,178,103,1,137,126,0,L
+Jacksonville Jaguars,3,3,HOME,Tennessee Titans,20,7,204,88,0,249,91,1,W
+Jacksonville Jaguars,4,4,AWAY,Denver Broncos,26,24,186,269,0,303,68,1,W
+Jacksonville Jaguars,5,5,AWAY,Carolina Panthers,27,34,358,149,3,160,285,0,L
+Jacksonville Jaguars,6,6,HOME,New Orleans Saints,6,13,151,75,1,222,104,0,L
+Jacksonville Jaguars,7,7,AWAY,Cincinnati Bengals,27,17,244,216,0,258,33,4,W
+Jacksonville Jaguars,8,8,HOME,New York Jets,29,15,278,111,1,167,46,3,W
+Jacksonville Jaguars,9,9,HOME,Houston Texans,3,26,282,74,4,194,216,1,L
+Jacksonville Jaguars,11,10,AWAY,Indianapolis Colts,13,33,279,29,1,125,264,2,L
+Jacksonville Jaguars,12,11,AWAY,Tennessee Titans,20,42,252,117,1,252,219,2,L
+Jacksonville Jaguars,13,12,HOME,Tampa Bay Buccaneers,11,28,193,49,4,241,74,1,L
+Jacksonville Jaguars,14,13,HOME,Los Angeles Chargers,10,45,164,88,0,330,195,0,L
+Jacksonville Jaguars,15,14,AWAY,Oakland Raiders,20,16,185,77,0,236,128,0,W
+Jacksonville Jaguars,16,15,AWAY,Atlanta Falcons,12,24,173,115,1,383,135,2,L
+Jacksonville Jaguars,17,16,HOME,Indianapolis Colts,38,20,286,67,1,143,132,2,W
+Kansas City Chiefs,1,1,AWAY,Jacksonville Jaguars,40,26,378,113,0,347,81,2,W
+Kansas City Chiefs,2,2,AWAY,Oakland Raiders,28,10,436,31,1,178,129,2,W
+Kansas City Chiefs,3,3,HOME,Baltimore Ravens,33,28,363,140,0,249,203,0,W
+Kansas City Chiefs,4,4,AWAY,Detroit Lions,34,30,315,123,3,261,186,2,W
+Kansas City Chiefs,5,5,HOME,Indianapolis Colts,13,19,288,36,1,151,180,1,L
+Kansas City Chiefs,6,6,HOME,Houston Texans,24,31,256,53,2,280,192,3,L
+Kansas City Chiefs,7,7,AWAY,Denver Broncos,30,6,191,80,0,134,71,1,W
+Kansas City Chiefs,8,8,HOME,Green Bay Packers,24,31,249,88,1,256,118,0,L
+Kansas City Chiefs,9,9,HOME,Minnesota Vikings,26,23,230,147,1,212,96,0,W
+Kansas City Chiefs,10,10,AWAY,Tennessee Titans,32,35,433,97,1,146,225,1,L
+Kansas City Chiefs,11,11,AWAY,Los Angeles Chargers,24,17,180,130,1,345,93,4,W
+Kansas City Chiefs,13,12,HOME,Oakland Raiders,40,9,163,96,0,210,122,3,W
+Kansas City Chiefs,14,13,AWAY,New England Patriots,23,16,271,75,2,184,94,1,W
+Kansas City Chiefs,15,14,HOME,Denver Broncos,23,3,327,92,1,199,52,1,W
+Kansas City Chiefs,16,15,AWAY,Chicago Bears,26,3,244,106,0,133,101,0,W
+Kansas City Chiefs,17,16,HOME,Los Angeles Chargers,31,21,174,162,1,258,108,2,W
+Los Angeles Chargers,1,1,HOME,Indianapolis Colts,30,24,310,125,2,173,203,0,W
+Los Angeles Chargers,2,2,AWAY,Detroit Lions,10,13,287,137,2,245,94,2,L
+Los Angeles Chargers,3,3,HOME,Houston Texans,20,27,293,73,1,337,39,1,L
+Los Angeles Chargers,4,4,AWAY,Miami Dolphins,30,10,311,79,0,161,72,1,W
+Los Angeles Chargers,5,5,HOME,Denver Broncos,13,20,211,35,3,159,191,2,L
+Los Angeles Chargers,6,6,HOME,Pittsburgh Steelers,17,24,316,32,3,132,124,1,L
+Los Angeles Chargers,7,7,AWAY,Tennessee Titans,20,23,326,39,1,306,97,1,L
+Los Angeles Chargers,8,8,AWAY,Chicago Bears,17,16,195,36,1,226,162,2,W
+Los Angeles Chargers,9,9,HOME,Green Bay Packers,26,11,283,159,0,139,45,0,W
+Los Angeles Chargers,10,10,AWAY,Oakland Raiders,24,26,169,146,3,200,78,0,L
+Los Angeles Chargers,11,11,HOME,Kansas City Chiefs,17,24,345,93,4,180,130,1,L
+Los Angeles Chargers,13,12,AWAY,Denver Broncos,20,23,244,115,2,134,84,1,L
+Los Angeles Chargers,14,13,AWAY,Jacksonville Jaguars,45,10,330,195,0,164,88,0,W
+Los Angeles Chargers,15,14,HOME,Minnesota Vikings,10,39,283,62,7,207,137,1,L
+Los Angeles Chargers,16,15,HOME,Oakland Raiders,17,24,265,19,0,267,99,0,L
+Los Angeles Chargers,17,16,AWAY,Kansas City Chiefs,21,31,258,108,2,174,162,1,L
+Los Angeles Rams,1,1,AWAY,Carolina Panthers,30,27,183,166,1,216,127,3,W
+Los Angeles Rams,2,2,HOME,New Orleans Saints,27,9,265,115,1,187,57,1,W
+Los Angeles Rams,3,3,AWAY,Cleveland Browns,20,13,254,90,3,175,95,1,W
+Los Angeles Rams,4,4,HOME,Tampa Bay Buccaneers,40,55,490,28,4,376,88,1,L
+Los Angeles Rams,5,5,AWAY,Seattle Seahawks,29,30,395,82,2,262,167,1,L
+Los Angeles Rams,6,6,HOME,San Francisco 49ers,7,20,48,109,1,232,99,2,L
+Los Angeles Rams,7,7,AWAY,Atlanta Falcons,37,10,291,90,0,186,38,3,W
+Los Angeles Rams,8,8,HOME,Cincinnati Bengals,24,10,372,98,0,297,104,0,W
+Los Angeles Rams,10,9,AWAY,Pittsburgh Steelers,12,17,218,88,4,231,42,2,L
+Los Angeles Rams,11,10,HOME,Chicago Bears,17,7,173,110,2,193,74,1,W
+Los Angeles Rams,12,11,HOME,Baltimore Ravens,6,45,199,22,2,195,285,0,L
+Los Angeles Rams,13,12,AWAY,Arizona Cardinals,34,7,417,132,0,124,74,1,W
+Los Angeles Rams,14,13,HOME,Seattle Seahawks,28,12,293,162,2,202,106,1,W
+Los Angeles Rams,15,14,AWAY,Dallas Cowboys,21,44,267,22,1,212,263,0,L
+Los Angeles Rams,16,15,AWAY,San Francisco 49ers,31,34,323,72,1,215,119,2,L
+Los Angeles Rams,17,16,HOME,Arizona Cardinals,31,24,311,113,0,322,71,5,W
+Miami Dolphins,1,1,HOME,Baltimore Ravens,10,59,179,21,3,378,265,0,L
+Miami Dolphins,2,2,HOME,New England Patriots,0,43,142,42,4,255,124,1,L
+Miami Dolphins,3,3,AWAY,Dallas Cowboys,6,31,211,72,1,241,235,1,L
+Miami Dolphins,4,4,HOME,Los Angeles Chargers,10,30,161,72,1,311,79,0,L
+Miami Dolphins,6,5,HOME,Washington Redskins,16,17,187,84,2,166,145,0,L
+Miami Dolphins,7,6,AWAY,Buffalo Bills,21,31,272,109,2,188,117,0,L
+Miami Dolphins,8,7,AWAY,Pittsburgh Steelers,14,27,170,60,4,236,158,1,L
+Miami Dolphins,9,8,HOME,New York Jets,26,18,266,50,0,238,83,1,W
+Miami Dolphins,10,9,AWAY,Indianapolis Colts,16,12,159,70,2,191,109,3,W
+Miami Dolphins,11,10,HOME,Buffalo Bills,20,37,280,23,1,256,168,0,L
+Miami Dolphins,12,11,AWAY,Cleveland Browns,24,41,192,92,2,320,147,1,L
+Miami Dolphins,13,12,HOME,Philadelphia Eagles,37,31,351,58,1,294,92,1,W
+Miami Dolphins,14,13,AWAY,New York Jets,21,22,240,122,1,262,112,1,L
+Miami Dolphins,15,14,AWAY,New York Giants,20,36,262,122,1,274,138,3,L
+Miami Dolphins,16,15,HOME,Cincinnati Bengals,38,35,406,96,1,371,59,1,W
+Miami Dolphins,17,16,AWAY,New England Patriots,27,24,326,63,0,217,135,2,W
+Minnesota Vikings,1,1,HOME,Atlanta Falcons,28,12,97,172,0,272,73,3,W
+Minnesota Vikings,2,2,AWAY,Green Bay Packers,16,21,223,198,4,191,144,2,L
+Minnesota Vikings,3,3,HOME,Oakland Raiders,34,14,174,211,0,214,88,1,W
+Minnesota Vikings,4,4,AWAY,Chicago Bears,6,16,182,40,2,197,72,0,L
+Minnesota Vikings,5,5,AWAY,New York Giants,28,10,279,211,1,147,64,1,W
+Minnesota Vikings,6,6,HOME,Philadelphia Eagles,38,20,325,122,2,292,108,3,W
+Minnesota Vikings,7,7,AWAY,Detroit Lions,42,30,338,166,0,352,81,1,W
+Minnesota Vikings,8,8,HOME,Washington Redskins,19,9,273,161,1,131,85,2,W
+Minnesota Vikings,9,9,AWAY,Kansas City Chiefs,23,26,212,96,0,230,147,1,L
+Minnesota Vikings,10,10,AWAY,Dallas Cowboys,28,24,211,153,0,393,50,1,W
+Minnesota Vikings,11,11,HOME,Denver Broncos,27,23,284,37,2,270,124,1,W
+Minnesota Vikings,13,12,AWAY,Seattle Seahawks,30,37,276,78,3,226,218,2,L
+Minnesota Vikings,14,13,HOME,Detroit Lions,20,7,234,120,0,161,70,2,W
+Minnesota Vikings,15,14,AWAY,Los Angeles Chargers,39,10,207,137,1,283,62,7,W
+Minnesota Vikings,16,15,HOME,Green Bay Packers,10,23,82,57,1,199,184,3,L
+Minnesota Vikings,17,16,HOME,Chicago Bears,19,21,126,174,3,179,158,1,L
+New England Patriots,1,1,HOME,Pittsburgh Steelers,33,3,366,99,0,276,32,1,W
+New England Patriots,2,2,AWAY,Miami Dolphins,43,0,255,124,1,142,42,4,W
+New England Patriots,3,3,HOME,New York Jets,30,14,313,68,2,69,36,1,W
+New England Patriots,4,4,AWAY,Buffalo Bills,16,10,150,74,1,240,135,4,W
+New England Patriots,5,5,AWAY,Washington Redskins,33,7,312,130,1,78,145,2,W
+New England Patriots,6,6,HOME,New York Giants,35,14,313,114,2,161,52,4,W
+New England Patriots,7,7,AWAY,New York Jets,33,0,249,74,1,73,81,6,W
+New England Patriots,8,8,HOME,Cleveland Browns,27,13,239,79,0,151,159,3,W
+New England Patriots,9,9,AWAY,Baltimore Ravens,20,37,268,74,2,162,210,2,L
+New England Patriots,11,10,AWAY,Philadelphia Eagles,17,10,224,74,0,174,81,1,W
+New England Patriots,12,11,HOME,Dallas Cowboys,13,9,181,101,0,212,109,1,W
+New England Patriots,13,12,AWAY,Houston Texans,22,28,303,145,1,224,52,0,L
+New England Patriots,14,13,HOME,Kansas City Chiefs,16,23,184,94,1,271,75,2,L
+New England Patriots,15,14,AWAY,Cincinnati Bengals,34,13,116,175,0,151,164,5,W
+New England Patriots,16,15,HOME,Buffalo Bills,24,17,271,143,1,176,92,0,W
+New England Patriots,17,16,HOME,Miami Dolphins,24,27,217,135,2,326,63,0,L
+New Orleans Saints,1,1,HOME,Houston Texans,30,28,362,148,1,234,180,1,W
+New Orleans Saints,2,2,AWAY,Los Angeles Rams,9,27,187,57,1,265,115,1,L
+New Orleans Saints,3,3,AWAY,Seattle Seahawks,33,27,177,88,1,406,108,1,W
+New Orleans Saints,4,4,HOME,Dallas Cowboys,12,10,149,117,1,212,45,3,W
+New Orleans Saints,5,5,HOME,Tampa Bay Buccaneers,31,24,345,112,1,158,94,0,W
+New Orleans Saints,6,6,AWAY,Jacksonville Jaguars,13,6,222,104,0,151,75,1,W
+New Orleans Saints,7,7,AWAY,Chicago Bears,36,25,273,151,0,235,17,2,W
+New Orleans Saints,8,8,HOME,Arizona Cardinals,31,9,373,137,1,197,40,0,W
+New Orleans Saints,10,9,HOME,Atlanta Falcons,9,26,258,52,0,174,143,1,L
+New Orleans Saints,11,10,AWAY,Tampa Bay Buccaneers,34,17,219,109,0,298,36,4,W
+New Orleans Saints,12,11,HOME,Carolina Panthers,34,31,300,118,1,230,121,1,W
+New Orleans Saints,13,12,AWAY,Atlanta Falcons,26,18,184,95,0,259,89,3,W
+New Orleans Saints,14,13,HOME,San Francisco 49ers,46,48,349,116,1,354,162,1,L
+New Orleans Saints,15,14,HOME,Indianapolis Colts,34,7,307,117,0,159,46,0,W
+New Orleans Saints,16,15,AWAY,Tennessee Titans,38,28,275,102,0,248,149,1,W
+New Orleans Saints,17,16,AWAY,Carolina Panthers,42,10,264,115,0,288,41,3,W
+New York Giants,1,1,AWAY,Dallas Cowboys,17,35,319,151,2,405,89,0,L
+New York Giants,2,2,HOME,Buffalo Bills,14,28,241,129,2,237,151,0,L
+New York Giants,3,3,AWAY,Tampa Bay Buccaneers,32,31,312,72,2,355,144,1,W
+New York Giants,4,4,HOME,Washington Redskins,24,3,225,164,4,121,55,4,W
+New York Giants,5,5,HOME,Minnesota Vikings,10,28,147,64,1,279,211,1,L
+New York Giants,6,6,AWAY,New England Patriots,14,35,161,52,4,313,114,2,L
+New York Giants,7,7,HOME,Arizona Cardinals,21,27,156,107,3,89,156,0,L
+New York Giants,8,8,AWAY,Detroit Lions,26,31,290,80,1,316,59,2,L
+New York Giants,9,9,HOME,Dallas Cowboys,18,37,171,100,3,257,172,2,L
+New York Giants,10,10,AWAY,New York Jets,27,34,258,23,2,218,76,0,L
+New York Giants,12,11,AWAY,Chicago Bears,14,19,134,109,1,270,65,2,L
+New York Giants,13,12,HOME,Green Bay Packers,13,31,240,95,3,243,79,0,L
+New York Giants,14,13,AWAY,Philadelphia Eagles,17,23,182,73,0,300,118,1,L
+New York Giants,15,14,HOME,Miami Dolphins,36,20,274,138,3,262,122,1,W
+New York Giants,16,15,AWAY,Washington Redskins,41,35,346,206,0,281,80,0,W
+New York Giants,17,16,HOME,Philadelphia Eagles,17,34,275,122,2,279,121,0,L
+New York Jets,1,1,HOME,Buffalo Bills,16,17,155,68,1,242,128,4,L
+New York Jets,2,2,HOME,Cleveland Browns,3,23,169,93,1,305,70,1,L
+New York Jets,3,3,AWAY,New England Patriots,14,30,69,36,1,313,68,2,L
+New York Jets,5,4,AWAY,Philadelphia Eagles,6,31,61,67,3,181,84,1,L
+New York Jets,6,5,HOME,Dallas Cowboys,24,22,326,56,1,270,129,0,W
+New York Jets,7,6,HOME,New England Patriots,0,33,73,81,6,249,74,1,L
+New York Jets,8,7,AWAY,Jacksonville Jaguars,15,29,167,46,3,278,111,1,L
+New York Jets,9,8,AWAY,Miami Dolphins,18,26,238,83,1,266,50,0,L
+New York Jets,10,9,HOME,New York Giants,34,27,218,76,0,258,23,2,W
+New York Jets,11,10,AWAY,Washington Redskins,34,17,285,115,2,171,54,1,W
+New York Jets,12,11,HOME,Oakland Raiders,34,3,313,88,1,140,68,2,W
+New York Jets,13,12,AWAY,Cincinnati Bengals,6,22,209,62,0,233,44,0,L
+New York Jets,14,13,HOME,Miami Dolphins,22,21,262,112,1,240,122,1,W
+New York Jets,15,14,AWAY,Baltimore Ravens,21,42,207,103,2,212,218,0,L
+New York Jets,16,15,HOME,Pittsburgh Steelers,16,10,174,85,1,185,75,2,W
+New York Jets,17,16,AWAY,Buffalo Bills,13,6,185,86,1,236,73,3,W
+Oakland Raiders,1,1,HOME,Denver Broncos,24,16,259,98,0,249,95,0,W
+Oakland Raiders,2,2,HOME,Kansas City Chiefs,10,28,178,129,2,436,31,1,L
+Oakland Raiders,3,3,AWAY,Minnesota Vikings,14,34,214,88,1,174,211,0,L
+Oakland Raiders,4,4,AWAY,Indianapolis Colts,31,24,189,188,1,265,81,2,W
+Oakland Raiders,5,5,HOME,Chicago Bears,24,21,229,169,2,194,42,2,W
+Oakland Raiders,7,6,AWAY,Green Bay Packers,24,42,329,155,2,421,60,0,L
+Oakland Raiders,8,7,AWAY,Houston Texans,24,27,285,93,0,258,130,0,L
+Oakland Raiders,9,8,HOME,Detroit Lions,31,24,279,171,0,383,90,2,W
+Oakland Raiders,10,9,HOME,Los Angeles Chargers,26,24,200,78,0,169,146,3,W
+Oakland Raiders,11,10,HOME,Cincinnati Bengals,17,10,273,113,2,73,173,2,W
+Oakland Raiders,12,11,AWAY,New York Jets,3,34,140,68,2,313,88,1,L
+Oakland Raiders,13,12,AWAY,Kansas City Chiefs,9,40,210,122,3,163,96,0,L
+Oakland Raiders,14,13,HOME,Tennessee Titans,21,42,258,97,1,391,161,1,L
+Oakland Raiders,15,14,HOME,Jacksonville Jaguars,16,20,236,128,0,185,77,0,L
+Oakland Raiders,16,15,AWAY,Los Angeles Chargers,24,17,267,99,0,265,19,0,W
+Oakland Raiders,17,16,AWAY,Denver Broncos,15,16,380,97,1,168,70,1,L
+Philadelphia Eagles,1,1,HOME,Washington Redskins,32,27,313,123,0,370,28,0,W
+Philadelphia Eagles,2,2,AWAY,Atlanta Falcons,20,24,237,49,3,310,57,3,L
+Philadelphia Eagles,3,3,HOME,Detroit Lions,24,27,246,127,2,201,86,0,L
+Philadelphia Eagles,4,4,AWAY,Green Bay Packers,34,27,160,176,0,414,77,2,W
+Philadelphia Eagles,5,5,HOME,New York Jets,31,6,181,84,1,61,67,3,W
+Philadelphia Eagles,6,6,AWAY,Minnesota Vikings,20,38,292,108,3,325,122,2,L
+Philadelphia Eagles,7,7,AWAY,Dallas Cowboys,10,37,168,115,4,213,189,1,L
+Philadelphia Eagles,8,8,AWAY,Buffalo Bills,31,13,153,218,1,155,98,1,W
+Philadelphia Eagles,9,9,HOME,Chicago Bears,22,14,227,146,0,102,62,1,W
+Philadelphia Eagles,11,10,HOME,New England Patriots,10,17,174,81,1,224,74,0,L
+Philadelphia Eagles,12,11,HOME,Seattle Seahawks,9,17,238,106,5,174,174,2,L
+Philadelphia Eagles,13,12,AWAY,Miami Dolphins,31,37,294,92,1,351,58,1,L
+Philadelphia Eagles,14,13,HOME,New York Giants,23,17,300,118,1,182,73,0,W
+Philadelphia Eagles,15,14,AWAY,Washington Redskins,37,27,258,157,1,251,101,1,W
+Philadelphia Eagles,16,15,HOME,Dallas Cowboys,17,9,313,118,0,257,54,1,W
+Philadelphia Eagles,17,16,AWAY,New York Giants,34,17,279,121,0,275,122,2,W
+Pittsburgh Steelers,1,1,AWAY,New England Patriots,3,33,276,32,1,366,99,0,L
+Pittsburgh Steelers,2,2,HOME,Seattle Seahawks,26,28,180,81,1,274,151,2,L
+Pittsburgh Steelers,3,3,AWAY,San Francisco 49ers,20,24,160,79,2,268,168,5,L
+Pittsburgh Steelers,4,4,HOME,Cincinnati Bengals,27,3,260,66,1,102,73,2,W
+Pittsburgh Steelers,5,5,HOME,Baltimore Ravens,23,26,192,77,2,139,138,3,L
+Pittsburgh Steelers,6,6,AWAY,Los Angeles Chargers,24,17,132,124,1,316,32,3,W
+Pittsburgh Steelers,8,7,HOME,Miami Dolphins,27,14,236,158,1,170,60,4,W
+Pittsburgh Steelers,9,8,HOME,Indianapolis Colts,26,24,183,90,2,189,139,3,W
+Pittsburgh Steelers,10,9,HOME,Los Angeles Rams,17,12,231,42,2,218,88,4,W
+Pittsburgh Steelers,11,10,AWAY,Cleveland Browns,7,21,178,58,4,189,104,0,L
+Pittsburgh Steelers,12,11,AWAY,Cincinnati Bengals,16,10,179,159,1,158,86,2,W
+Pittsburgh Steelers,13,12,HOME,Cleveland Browns,20,13,199,124,1,173,106,2,W
+Pittsburgh Steelers,14,13,AWAY,Arizona Cardinals,23,17,135,140,2,165,71,3,W
+Pittsburgh Steelers,15,14,HOME,Buffalo Bills,10,17,178,51,5,131,130,2,L
+Pittsburgh Steelers,16,15,AWAY,New York Jets,10,16,185,75,2,174,85,1,L
+Pittsburgh Steelers,17,16,AWAY,Baltimore Ravens,10,28,77,91,2,81,223,2,L
+San Francisco 49ers,1,1,AWAY,Tampa Bay Buccaneers,31,17,158,98,2,174,121,4,W
+San Francisco 49ers,2,2,AWAY,Cincinnati Bengals,41,17,312,259,1,291,25,1,W
+San Francisco 49ers,3,3,HOME,Pittsburgh Steelers,24,20,268,168,5,160,79,2,W
+San Francisco 49ers,5,4,HOME,Cleveland Browns,31,3,171,275,0,78,102,4,W
+San Francisco 49ers,6,5,AWAY,Los Angeles Rams,20,7,232,99,2,48,109,1,W
+San Francisco 49ers,7,6,AWAY,Washington Redskins,9,0,146,137,1,50,104,1,W
+San Francisco 49ers,8,7,HOME,Carolina Panthers,51,13,156,232,1,100,130,3,W
+San Francisco 49ers,9,8,AWAY,Arizona Cardinals,28,25,310,101,0,204,153,0,W
+San Francisco 49ers,10,9,HOME,Seattle Seahawks,24,27,215,87,3,189,147,4,L
+San Francisco 49ers,11,10,HOME,Arizona Cardinals,36,26,408,34,2,131,135,2,W
+San Francisco 49ers,12,11,HOME,Green Bay Packers,37,8,227,112,0,81,117,1,W
+San Francisco 49ers,13,12,AWAY,Baltimore Ravens,17,20,157,174,1,105,178,1,L
+San Francisco 49ers,14,13,AWAY,New Orleans Saints,48,46,354,162,1,349,116,1,W
+San Francisco 49ers,15,14,HOME,Atlanta Falcons,22,29,193,120,2,201,89,1,L
+San Francisco 49ers,16,15,HOME,Los Angeles Rams,34,31,215,119,2,323,72,1,W
+San Francisco 49ers,17,16,AWAY,Seattle Seahawks,26,21,270,128,0,223,125,0,W
+Seattle Seahawks,1,1,HOME,Cincinnati Bengals,21,20,160,72,1,395,34,3,W
+Seattle Seahawks,2,2,AWAY,Pittsburgh Steelers,28,26,274,151,2,180,81,1,W
+Seattle Seahawks,3,3,HOME,New Orleans Saints,27,33,406,108,1,177,88,1,L
+Seattle Seahawks,4,4,AWAY,Arizona Cardinals,27,10,225,115,0,206,115,1,W
+Seattle Seahawks,5,5,HOME,Los Angeles Rams,30,29,262,167,1,395,82,2,W
+Seattle Seahawks,6,6,AWAY,Cleveland Browns,32,28,284,170,1,249,157,4,W
+Seattle Seahawks,7,7,HOME,Baltimore Ravens,16,30,241,106,2,141,199,0,L
+Seattle Seahawks,8,8,AWAY,Atlanta Falcons,27,20,171,151,0,441,69,3,W
+Seattle Seahawks,9,9,HOME,Tampa Bay Buccaneers,40,34,347,145,1,319,99,1,W
+Seattle Seahawks,10,10,AWAY,San Francisco 49ers,27,24,189,147,4,215,87,3,W
+Seattle Seahawks,12,11,AWAY,Philadelphia Eagles,17,9,174,174,2,238,106,5,W
+Seattle Seahawks,13,12,HOME,Minnesota Vikings,37,30,226,218,2,276,78,3,W
+Seattle Seahawks,14,13,AWAY,Los Angeles Rams,12,28,202,106,1,293,162,2,L
+Seattle Seahawks,15,14,AWAY,Carolina Panthers,30,24,274,154,1,269,145,3,W
+Seattle Seahawks,16,15,HOME,Arizona Cardinals,13,27,133,91,1,159,253,0,L
+Seattle Seahawks,17,16,HOME,San Francisco 49ers,21,26,223,125,0,270,128,0,L
+Tampa Bay Buccaneers,1,1,HOME,San Francisco 49ers,17,31,174,121,4,158,98,2,L
+Tampa Bay Buccaneers,2,2,AWAY,Carolina Panthers,20,14,189,100,0,313,39,1,W
+Tampa Bay Buccaneers,3,3,HOME,New York Giants,31,32,355,144,1,312,72,2,L
+Tampa Bay Buccaneers,4,4,AWAY,Los Angeles Rams,55,40,376,88,1,490,28,4,W
+Tampa Bay Buccaneers,5,5,AWAY,New Orleans Saints,24,31,158,94,0,345,112,1,L
+Tampa Bay Buccaneers,6,6,HOME,Carolina Panthers,26,37,365,42,7,209,59,1,L
+Tampa Bay Buccaneers,8,7,AWAY,Tennessee Titans,23,27,283,106,4,174,72,1,L
+Tampa Bay Buccaneers,9,8,AWAY,Seattle Seahawks,34,40,319,99,1,347,145,1,L
+Tampa Bay Buccaneers,10,9,HOME,Arizona Cardinals,30,27,339,118,3,342,75,2,W
+Tampa Bay Buccaneers,11,10,HOME,New Orleans Saints,17,34,298,36,4,219,109,0,L
+Tampa Bay Buccaneers,12,11,AWAY,Atlanta Falcons,35,22,313,133,2,280,57,2,W
+Tampa Bay Buccaneers,13,12,AWAY,Jacksonville Jaguars,28,11,241,74,1,193,49,4,W
+Tampa Bay Buccaneers,14,13,HOME,Indianapolis Colts,38,35,467,75,4,243,66,1,W
+Tampa Bay Buccaneers,15,14,AWAY,Detroit Lions,38,17,446,49,1,250,45,3,W
+Tampa Bay Buccaneers,16,15,HOME,Houston Texans,20,23,329,106,5,161,68,2,L
+Tampa Bay Buccaneers,17,16,HOME,Atlanta Falcons,22,28,193,136,3,286,87,1,L
+Tennessee Titans,1,1,AWAY,Cleveland Browns,43,13,216,123,0,244,102,3,W
+Tennessee Titans,2,2,HOME,Indianapolis Colts,17,19,119,124,0,121,167,2,L
+Tennessee Titans,3,3,AWAY,Jacksonville Jaguars,7,20,249,91,1,204,88,0,L
+Tennessee Titans,4,4,AWAY,Atlanta Falcons,24,10,227,138,0,364,58,1,W
+Tennessee Titans,5,5,HOME,Buffalo Bills,7,14,150,102,0,204,109,1,L
+Tennessee Titans,6,6,AWAY,Denver Broncos,0,16,165,39,3,167,103,1,L
+Tennessee Titans,7,7,HOME,Los Angeles Chargers,23,20,306,97,1,326,39,1,W
+Tennessee Titans,8,8,HOME,Tampa Bay Buccaneers,27,23,174,72,1,283,106,4,W
+Tennessee Titans,9,9,AWAY,Carolina Panthers,20,30,310,121,3,214,156,1,L
+Tennessee Titans,10,10,HOME,Kansas City Chiefs,35,32,146,225,1,433,97,1,W
+Tennessee Titans,12,11,HOME,Jacksonville Jaguars,42,20,252,219,2,252,117,1,W
+Tennessee Titans,13,12,AWAY,Indianapolis Colts,31,17,138,154,2,309,82,3,W
+Tennessee Titans,14,13,AWAY,Oakland Raiders,42,21,391,161,1,258,97,1,W
+Tennessee Titans,15,14,HOME,Houston Texans,21,24,269,163,1,234,140,2,L
+Tennessee Titans,16,15,HOME,New Orleans Saints,28,38,248,149,1,275,102,0,L
+Tennessee Titans,17,16,AWAY,Houston Texans,35,14,222,245,0,192,109,1,W
+Washington Redskins,1,1,AWAY,Philadelphia Eagles,27,32,370,28,0,313,123,0,L
+Washington Redskins,2,2,HOME,Dallas Cowboys,21,31,208,47,0,261,213,1,L
+Washington Redskins,3,3,HOME,Chicago Bears,15,31,287,69,5,208,90,1,L
+Washington Redskins,4,4,AWAY,New York Giants,3,24,121,55,4,225,164,4,L
+Washington Redskins,5,5,HOME,New England Patriots,7,33,78,145,2,312,130,1,L
+Washington Redskins,6,6,AWAY,Miami Dolphins,17,16,166,145,0,187,84,2,W
+Washington Redskins,7,7,HOME,San Francisco 49ers,0,9,50,104,1,146,137,1,L
+Washington Redskins,8,8,AWAY,Minnesota Vikings,9,19,131,85,2,273,161,1,L
+Washington Redskins,9,9,AWAY,Buffalo Bills,9,24,116,127,0,146,122,0,L
+Washington Redskins,11,10,HOME,New York Jets,17,34,171,54,1,285,115,2,L
+Washington Redskins,12,11,HOME,Detroit Lions,19,16,144,86,2,189,175,4,W
+Washington Redskins,13,12,AWAY,Carolina Panthers,29,21,114,248,0,213,65,2,W
+Washington Redskins,14,13,AWAY,Green Bay Packers,15,20,141,121,1,167,174,1,L
+Washington Redskins,15,14,HOME,Philadelphia Eagles,27,37,251,101,1,258,157,1,L
+Washington Redskins,16,15,HOME,New York Giants,35,41,281,80,0,346,206,0,L
+Washington Redskins,17,16,AWAY,Dallas Cowboys,16,47,183,88,2,294,223,1,L

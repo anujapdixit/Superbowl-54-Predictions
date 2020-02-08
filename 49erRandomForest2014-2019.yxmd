@@ -1,0 +1,334 @@
+<?xml version="1.0"?>
+<AlteryxDocument yxmdVer="2019.4">
+  <Nodes>
+    <Node ToolID="1">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.DbFileInput.DbFileInput">
+        <Position x="54" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Passwords />
+          <File OutputFileName="" RecordLimit="" SearchSubDirs="False" FileFormat="25">C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`</File>
+          <FormatSpecificOptions>
+            <FirstRowData>False</FirstRowData>
+            <ImportLine>1</ImportLine>
+          </FormatSpecificOptions>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText>49ers_2014-2018data.xlsx
+Query=`2014-2019$`</DefaultAnnotationText>
+          <Left value="False" />
+        </Annotation>
+        <Dependencies>
+          <Implicit />
+        </Dependencies>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Year" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="Double" />
+            <Field name="Week" size="255" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="V_String" />
+            <Field name="Opp" size="255" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="V_String" />
+            <Field name="49ers_Score" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="Double" />
+            <Field name="1stD" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="Double" />
+            <Field name="TotYd" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="Double" />
+            <Field name="PassY" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="Double" />
+            <Field name="RushY" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="Double" />
+            <Field name="TO" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="Double" />
+            <Field name="1stD2" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="Double" />
+            <Field name="TotYd2" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="Double" />
+            <Field name="PassY2" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="Double" />
+            <Field name="RushY2" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="Double" />
+            <Field name="TO2" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxDbFileInput" />
+    </Node>
+    <Node ToolID="2">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.AlteryxSelect.AlteryxSelect">
+        <Position x="150" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <OrderChanged value="False" />
+          <CommaDecimal value="False" />
+          <SelectFields>
+            <SelectField field="49ers_Score" selected="True" />
+            <SelectField field="1stD" selected="True" rename="1stD_Off" />
+            <SelectField field="TotYd" selected="True" rename="TotYD_Off" />
+            <SelectField field="PassY" selected="True" rename="PassY_Off" />
+            <SelectField field="RushY" selected="True" rename="RushY_Off" />
+            <SelectField field="TO" selected="True" rename="TO_Off" />
+            <SelectField field="1stD2" selected="True" rename="1stD_Def" />
+            <SelectField field="TotYd2" selected="True" rename="TotYd_Def" />
+            <SelectField field="PassY2" selected="True" rename="PassY_Def" />
+            <SelectField field="RushY2" selected="True" rename="RushY_Def" />
+            <SelectField field="TO2" selected="True" rename="TO_Def" />
+            <SelectField field="*Unknown" selected="False" />
+          </SelectFields>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="49ers_Score" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="Double" />
+            <Field name="1stD_Off" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="Double" />
+            <Field name="TotYD_Off" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="Double" />
+            <Field name="PassY_Off" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="Double" />
+            <Field name="RushY_Off" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="Double" />
+            <Field name="TO_Off" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="Double" />
+            <Field name="1stD_Def" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="Double" />
+            <Field name="TotYd_Def" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="Double" />
+            <Field name="PassY_Def" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="Double" />
+            <Field name="RushY_Def" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="Double" />
+            <Field name="TO_Def" source="File: C:\Users\Tatiksha\Documents\Art &amp; Science of Forecasting\49ers_2014-2018data.xlsx|||`2014-2019$`" type="Double" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxSelect" />
+    </Node>
+    <Node ToolID="3">
+      <GuiSettings>
+        <Position x="234" y="114" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <Value name="Model Name">RandomForest</Value>
+          <Value name="Y Var">49ers_Score</Value>
+          <Value name="X Vars">1stD_Off + TotYD_Off + PassY_Off + RushY_Off + TO_Off + 1stD_Def + TotYd_Def + PassY_Def + RushY_Def + TO_Def</Value>
+          <Value name="Num Trees">500</Value>
+          <Value name="Custom Num Vars">False</Value>
+          <Value name="Num Vars">3</Value>
+          <Value name="model.size">False</Value>
+          <Value name="total.nodes">100</Value>
+          <Value name="max.depth">10</Value>
+          <Value name="node.size">5</Value>
+          <Value name="replace">True</Value>
+          <Value name="samp.rate">100</Value>
+          <Value name="inches">True</Value>
+          <Value name="in.w">5.50</Value>
+          <Value name="in.h">5.50</Value>
+          <Value name="centimeters">False</Value>
+          <Value name="cm.w">13.00</Value>
+          <Value name="cm.h">14.95</Value>
+          <Value name="graph.resolution">1x</Value>
+          <Value name="pointsize">10</Value>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+        <MetaInfo connection="Reports">
+          <RecordInfo>
+            <Field name="Desc" size="64" source="Formula: (Multiple Sources)" type="V_WString" />
+            <Field name="Report" size="1073741823" source="Report: (Multiple Sources)" type="V_WString" />
+            <Field name="MSE" size="1073741823" source="R-DATA: (BatchMacro)" type="V_WString" />
+            <Field name="R-Sq" size="1073741823" source="R-DATA: (BatchMacro)" type="V_WString" />
+          </RecordInfo>
+        </MetaInfo>
+        <MetaInfo connection="Output">
+          <RecordInfo>
+            <Field name="Name" size="1073741823" source="R-DATA:" type="V_WString" />
+            <Field name="Object" size="2147483647" source="R-DATA:SERIAL" type="Blob" />
+          </RecordInfo>
+        </MetaInfo>
+      </Properties>
+      <EngineSettings Macro="Predictive Tools\Forest_Model.yxmc" />
+    </Node>
+    <Node ToolID="4">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="366" y="54" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Tatiksha\AppData\Local\Temp\Engine_8784_5f5ff08e7220474cb39e7b35c7fc16d5_\Engine_18512_e4dc6906fa044d37ae333cc78168b4f2_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Profile</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="6">
+      <GuiSettings Plugin="AlteryxBasePluginsGui.BrowseV2.BrowseV2">
+        <Position x="366" y="186" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFile>C:\Users\Tatiksha\AppData\Local\Temp\Engine_8784_5f5ff08e7220474cb39e7b35c7fc16d5_\Engine_18512_e014733f3d9b4a94ba6776593c79ead2_.yxdb</TempFile>
+          <TempFileDataProfiling />
+          <Layout>
+            <ViewMode>Single</ViewMode>
+            <ViewSize value="100" />
+            <View1>
+              <DefaultTab>Report</DefaultTab>
+              <Hints>
+                <Table />
+              </Hints>
+            </View1>
+            <View2 />
+          </Layout>
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="AlteryxBasePluginsEngine.dll" EngineDllEntryPoint="AlteryxBrowseV2" />
+    </Node>
+    <Node ToolID="7">
+      <GuiSettings Plugin="AlteryxGuiToolkit.Questions.Tab.Tab">
+        <Position x="0" y="0" width="59" height="59" />
+      </GuiSettings>
+      <Properties>
+        <Configuration />
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+    </Node>
+    <Node ToolID="8">
+      <GuiSettings Plugin="PortfolioPluginsGui.ComposerRender.PortfolioComposerRender">
+        <Position x="366" y="126" />
+      </GuiSettings>
+      <Properties>
+        <Configuration>
+          <TempFileType>pdf</TempFileType>
+          <BatchMode value="False" />
+          <DataField>Report</DataField>
+          <Separator>Continuous</Separator>
+          <EmbedDependencies value="False" />
+          <ShowHeader value="False" />
+          <ShowFooter value="False" />
+          <PortraitMode value="True" />
+          <PaperType Width="612" Height="792" Left="36" Right="36" Top="36" Bottom="36" />
+          <DefaultStyles>
+            <Style Name="TextStyle" FontName="Arial" FontSize="14" Justify="Left" ForeColor="#000000" Locale="1033" />
+          </DefaultStyles>
+          <PNGResolution>1</PNGResolution>
+          <PNGLargerAction>squeeze</PNGLargerAction>
+          <PNGLargerThanPageChoice>warning</PNGLargerThanPageChoice>
+          <PNGTransparentBG value="False" />
+          <PNGBackColor value="#ffffff" />
+        </Configuration>
+        <Annotation DisplayMode="0">
+          <Name />
+          <DefaultAnnotationText />
+          <Left value="False" />
+        </Annotation>
+      </Properties>
+      <EngineSettings EngineDll="PortfolioPluginsEngine.dll" EngineDllEntryPoint="AlteryxPortfolioComposerRenderPlugin" />
+    </Node>
+  </Nodes>
+  <Connections>
+    <Connection>
+      <Origin ToolID="1" Connection="Output" />
+      <Destination ToolID="2" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="2" Connection="Output" />
+      <Destination ToolID="3" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Output" />
+      <Destination ToolID="4" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Reports" />
+      <Destination ToolID="6" Connection="Input" />
+    </Connection>
+    <Connection>
+      <Origin ToolID="3" Connection="Reports" />
+      <Destination ToolID="8" Connection="Input" />
+    </Connection>
+  </Connections>
+  <Properties>
+    <Memory default="True" />
+    <GlobalRecordLimit value="0" />
+    <TempFiles default="True" />
+    <Annotation on="True" includeToolName="False" />
+    <ConvErrorLimit value="10" />
+    <ConvErrorLimit_Stop value="False" />
+    <CancelOnError value="False" />
+    <DisableBrowse value="False" />
+    <EnablePerformanceProfiling value="False" />
+    <DisableAllOutput value="False" />
+    <ShowAllMacroMessages value="False" />
+    <ShowConnectionStatusIsOn value="True" />
+    <ShowConnectionStatusOnlyWhenRunning value="True" />
+    <ZoomLevel value="0" />
+    <LayoutType>Horizontal</LayoutType>
+    <MetaInfo>
+      <NameIsFileName value="True" />
+      <Name>49erRandomForest2014-2019</Name>
+      <Description />
+      <RootToolName />
+      <ToolVersion />
+      <ToolInDb value="False" />
+      <CategoryName />
+      <SearchTags />
+      <Author />
+      <Company />
+      <Copyright />
+      <DescriptionLink actual="" displayed="" />
+      <Example>
+        <Description />
+        <File />
+      </Example>
+    </MetaInfo>
+    <Events>
+      <Enabled value="True" />
+    </Events>
+    <RuntimeProperties>
+      <Actions />
+      <Questions>
+        <Question>
+          <Type>Tab</Type>
+          <Description>Questions</Description>
+          <Name>Tab (7)</Name>
+          <ToolId value="7" />
+          <Questions />
+        </Question>
+      </Questions>
+      <ModuleType>Wizard</ModuleType>
+      <MacroCustomHelp value="False" />
+      <MacroDynamicOutputFields value="False" />
+      <MacroImageStd value="0" />
+      <MacroInputs />
+      <MacroOutputs />
+      <Wiz_CustomHelp value="False" />
+      <Wiz_CustomGraphic value="False" />
+      <Wiz_ShowOutput value="True" />
+      <Wiz_OpenOutputTools>
+        <Tool ToolId="3" Selected="True" />
+        <Tool ToolId="4" Selected="False" />
+        <Tool ToolId="6" Selected="False" />
+        <Tool ToolId="8" Selected="True" />
+      </Wiz_OpenOutputTools>
+      <Wiz_OutputMessage />
+      <Wiz_NoOutputFilesMessage />
+      <Wiz_ChainRunWizard />
+    </RuntimeProperties>
+  </Properties>
+</AlteryxDocument>
